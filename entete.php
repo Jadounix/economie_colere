@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>L'économie de la colère</title>
-	<link rel="stylesheet" media="screen" type="text/css" href="css/master.css">
+	<link rel="stylesheet" media="screen" type="text/css" href="CSS/master.css">
 	<!--font-->
 </head>
 
