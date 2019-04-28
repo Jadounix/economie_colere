@@ -14,11 +14,11 @@
 		</div>
 		<div class="menu">
 			<a href="p1.php">I - Introduction</a>
-			<p>|</p>
+			<p>·</p>
 			<a href="P2.php">II - La colère</a>
-			<p>|</p>
+			<p>·</p>
 			<a href="P3.php">III - Colère et négociation</a>
-			<p>|</p>
+			<p>·</p>
 			<a href="P4.php">Le jeu de l'ultimatum</a>
 		</div>
 	</header>
