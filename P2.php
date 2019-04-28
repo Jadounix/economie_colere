@@ -125,7 +125,11 @@
       Une liste de films induisant différentes émotions a été créée par Schaefer, Nils, Sanchez et Philippot. Pour la colère on retrouve par exemple les films suivants : Le pianiste (2001), ou American Horror Story X (1998).
       <br />Une autre séquence vidéo utilisé pour provoquer des émotions négative comme le colère ou l’indignation est celle de l’expérience de Milgram, du psychologue américain Stanley Milgram (1960).
     </p>
-    <p><embed src="video/milgram2.mp4" autostart="false" height="300" width="500" /></p>
+    <!-- <p><video src="video/milgram2.mp4" autoplay="False" height="300" width="500" /></p> -->
+    <video controls>
+      <source src="video/milgram2.mp4" autoplay="False" type="video/mp4">
+      Extrait de l'expérience de Milgram - Vidéo utilisée pour déclencher l'émotion de colère
+    </video>
     <p>D’autres méthodes existent. Des chercheurs utilisent par exemple des banques d’images qui sont destinées à induire certaines émotions, ou encore des extraits de musiques.
     L’imagination peut également être utilisée, avec l’écriture de textes chargés émotionnellement.
     <br />Dans le cadre de ce TER nous avons choisi d’induire la colère grâce à un petit jeu, qui permet une mise en situation.
