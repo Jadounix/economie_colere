@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200');
 @import url('style_jeu.css');
 /*--------------------GENERAL-------------------*/
+html {
+  scroll-behavior: smooth;
+}
 *{
 	padding: 0;
 	margin: 0;
@@ -17,6 +20,10 @@ header
 	/* height:90px; */
 	/* padding-bottom: 8px; */
 	font-family: 'Source Sans Pro', sans-serif;
+}
+main h1,main h2,main h3,main h4{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
 }
 footer{
 	background-color: black;
@@ -93,10 +100,6 @@ footer{
 	min-height: 400px;
 }
 
-.background p{
-	font-family: "Times New Roman"
-}
-
 /*------------------------ FEUILLE -----------------------------*/
 
 .feuille{
@@ -161,13 +164,7 @@ footer{
   margin-top: 2em;
   top: 4em;
 }
-.post-content {
-	padding: 20px;
-  /* flex-basis: 800px; */
-  max-width: 100%;
-	/* background: #FFF; */
 
-}
 
 /* TOC part */
 
@@ -237,26 +234,57 @@ a.toc-already-read {
 }
 
 /*Stylisation du texte de postcontent*/
+.post-content {
+	padding: 20px 60px ;
+	/* padding-left: 60px; */
+  /* flex-basis: 800px; */
+  max-width: 100%;
+	/* background: #FFF; */
 
-h1{
+}
+main h1{
 	padding-bottom: 20px;
+	font-size: 2.2em;
 }
 
-h2{
+main h2{
+	color:#9F0016;
+	font-size: 1.8em;
 	padding-top: 20px;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
+	padding-left: 20px;
 }
 
-h3{
+main h3{
+	color: #00289F;
+	font-size: 1.4em;
 	padding-top: 15px;
-	padding-bottom: 8px;
+	padding-bottom: 15px;
+	padding-left: 40px;
 }
 
+main h4{
+	color: #380071;
+	font-size: 1.2em;
+	padding-left: 60px;
+	padding-bottom: 5px;
+}
+
+main p{
+	margin-bottom: 18px;
+	line-height: 1.5;
+	text-align: justify;
+	font-family: "Times New Roman";
+}
+main ul, main ol{
+	padding-left: 40px;
+}
 /*-------------------------ABSTRACT--------------------------*/
 .paper-stack {
+	line-height: 1.5;
   background: #fff;
   width: 1000px;
-	padding: 10px;
+	padding: 10px 30px;
   border: 1px solid #ccc;
   position: relative;
   -moz-border-radius: 2px;
@@ -266,7 +294,8 @@ h3{
   -webkit-box-shadow: 0 8px 10px rgba(0, 0, 0, 0.15), 0 8px 10px rgba(0, 0, 0, 0.05);
   box-shadow: 0 8px 10px rgba(0, 0, 0, 0.15), 0 8px 10px rgba(0, 0, 0, 0.05);
   margin: 0px auto 0;
-  height: 200px;
+  min-height: 200px;
+	text-align: justify;
 }
 .paper-stack:before, .paper-stack:after {
   content: '';
@@ -290,6 +319,7 @@ h3{
 .paper-stack h2 {
   text-align: center;
   color: #333;
+	margin-bottom: 10px;
 }
 
 /*------------------------ PIED -----------------------------*/

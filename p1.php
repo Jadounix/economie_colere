@@ -5,67 +5,36 @@
     <!-- Javascript s'en occuppe. . .  -->
   </aside>
   <main class="post-content">
-    <h1>Introduction - Rôle des émotions en économie</h1>
+    <h1>Lorem ipsum dolor sit amet</h1>
+    <h2>consectetur adipiscing elit.</h2> Aenean elementum quis tellus in pulvinar. Sed suscipit dapibus orci, imperdiet pretium libero pretium id. Aliquam nec tincidunt nisl. Aenean in lacinia nibh, vitae lobortis metus. Mauris rutrum pretium dolor, a imperdiet leo ultricies non. Duis semper tellus dolor, et viverra diam imperdiet vel. Etiam mauris quam, congue eu urna nec, dapibus iaculis ante. Pellentesque ac scelerisque sem.
 
-    <h2>Qu'est ce qu'une émotion ?</h2>
-    <p>Il existe de nombreuses définitions de l'émotion dans les différentes disciplines qui s'intéressent à ce phénomène. En psychologie, on considère qu'elle se traduit généralement comme une réaction psychologique et physique à un stimulus. Ce
-      stimulus peut être externe, ou être déclenché par ses propres états mentaux.</p>
-    <p>Ce qui semble caractériser les émotions, c'est leur nature transitoire. Elles sont généralement de courte durée, même si elles peuvent se muer en quelque chose de plus long, appelée une « humeur » si la cause de l'émotion dure dans le temps.
-      Les émotions peuvent également marquer la mémoire, notamment si elles sont intenses . Elles peuvent se traduire par un comportement, par exemple un comportement agressif dans le cas de la colère.</p>
-    <p>Certaines émotions forment les émotions dites « de base ». Elle sont six d'après le neurologue Damasio (1994) : Bonheur (ou joie), tristesse, peur, colère, dégoût et surprise. Mais Plutchnik en distingue, se regroupant en 4 paires contenant à
-      chaque fois les deux émotions opposées : joie/tristesse, acceptation/dégoût, colère/peur, surprise/anticipation. Les autres émotions viendraient de mélange entre ces émotions de bases, et de leurs variations d'intensité.
-      D'après Damasio les émotions joueraient un rôle important dans le raisonnement et la prise de décision.
-    </p>
-    <p>Les émotions ont initialement été été étudiées de façon expérimentale, à cause notamment de la difficulté à les induire en laboratoire dans le cadre d'une expérience. Se pose également le problème de l'éthique : peut-on susciter des réactions
-      émotionnelles, telles que de la peur, de la colère ou encore de la tristesse dans un cadre expérimental ? À partir du 19ème siècle, des approches théoriques ont cependant été proposées.</p>
-    <ul>
-      <li>La théorie de James et Lange (1884) [11] :</li>
-      <p>James et Lange proposent une théorie périphériste des émotions : les stimuli émotionnels engendrent des changements corporels, et c'est la perception des ces changements qui induit l'émotion. L’émotion est donc la conséquence de symptômes
-        corporels, et non l’inverse. “Notre coeur bat plus vite, nous transpirons, donc nous avons peur.”
-        <br />Cette théorie peut étonner de prime abord. Pourtant des expériences ont été menées, sur lesquels les chercheurs se sont appuyés : Par exemple, tenir un crayon entre ses dents oblige à activer les zones zygomatiques, et suscite des
-        émotions positives. De la même manière, tenir un crayon entre ses lèvres active les muscles Platysma, et suscite des émotions négatives, [20].
-        Néanmoins cette théorie reste contestée, et moins utilisée aujourd'hui pour décrire les émotions.
-        Cette théorie est dite périphériste car on considère que ce sont les événements physiologiques périphériques qui permettent la naissance des émotions.
-        <br />La théorie périphériste s’oppose à la théorie centraliste, soutenue par Walter Cannon et Philip Bard.
-      </p>
-      <li>La théorie de Cannon et Bard (1920-1930) :</li>
-      <p>Cannon et Bard réfutent la théorie périphériste principalement pour deux raisons : deux réactions corporelles peuvent être similaires pour deux émotions différentes, et les personnes incapables de mouvement peuvent ressentir des émotions
-        [2].
-        <br />Cannon et Bard proposent que l’expression des émotions (les modifications corporelles) et la perception des émotions surviennent (quasi-)simultanément. En effet, ils soutiennent que ces deux aspects des émotions sont des entités
-        indépendantes qui sont déclenchées par une zone spécifique du cerveau, le thalamus [15].
-        <br />On appelle cette théorie centraliste car elle considère que les émotions seraient produites par le cerveau.
-      </p>
-      <li>La théorie de Schachter et Singer :</li>
-      <p>Schachter et Singer proposent une théorie cognitiviste des émotions. Les individus interprètent leurs réaction corporelles en fonction de leur expérience, et du contexte. D’où la possibilité d’émotions différentes pour une même réaction
-        corporelle.
-        <br />Une expérience célèbre illustrant cette théorie est celle du pont suspendu de Dutton et Aron (1974) :
-        Une enquêtrice fait passer un questionnaire à deux groupes d’hommes, et leur laisse son numéro de téléphone à la fin pour qu’ils puissent la recontacter pour obtenir les résultats. Le premier groupe passait le questionnaire dans un lieu
-        neutre, tandis que le deuxième le passait sur un pont suspendu vertigineux. Les résultats montrent que les hommes qui ont passé le questionnaire sur le pont sont plus nombreux à rappeler l'enquêtrice, que ceux ayant passé le questionnaire
-        dans un lieu neutre.
-        L’interprétation est la suivante : Être sur le pont suspendu active une modification physiologique chez les individus, qu’ils attribuent (artificiellement) à la présence de l'enquêtrice.
-      </p>
-    </ul>
+    <h2>Morbi mollis viverra diam</h2> at mollis ligula convallis vitae. Suspendisse dignissim magna nec lacus pulvinar suscipit. Donec ut leo a nibh bibendum venenatis. Integer interdum, mauris sed tempus mollis, quam nunc pulvinar massa, vitae fringilla quam lorem id lacus. Maecenas eget felis scelerisque, congue nisi id, placerat purus. Mauris et augue sit amet felis volutpat cursus. Quisque vehicula ligula eu lectus egestas eleifend ut mollis sem. Curabitur aliquam tempor odio, pretium accumsan ligula hendrerit id. Phasellus lobortis nisl semper rutrum fermentum. Morbi gravida tincidunt consectetur.
 
-    <h2>Définition et importance de la rationalité économique</h2>
-    <p>La rationalité économique est une hypothèse selon laquelle les individus chercheraient à maximiser la satisfaction de leurs besoins. Dans le cadre de la négociation par exemple, chaque individu cherche à maximiser son profit, et minimiser ses
-      coûts. Dans La rationalité, (Idées économiques et sociales n°165), un comportement est défini comme rationnel lorsqu'il est fondé sur une comparaison entre les moyens à la disposition de l'agent et les fins qu'il cherche à atteindre.
-      <br />D'après l'article de Zizzo, Anger and economic rationality [5], il y a deux sortes de rationalité économique : une rationalité déontologique et une rationalité conséquentialiste. Lorsqu’elle est définie selon le principe déontologique, la
-      rationalité des choix et des actions d’un individu est évaluée en fonction des règles, des principes, qui ont été suivis pour atteindre un objectif. Par opposition, lorsque la rationalité est définie selon le principe conséquentialiste, alors
-      elle est évaluée en fonction des conséquences des actions d’un individu, en se souciant davantage des objectifs que des actions qui ont été menées pour les atteindre.
-      <br />En général, la rationalité économique est plutôt fondée sur un point de vue conséquentialiste. On évalue les conséquences d'une action en fonction de l'utilité qu'elles apportent.
-      Mais il existe différents points de vue de la rationalité. En effet, il y a une différence entre ce qui optimal du point de vue de la rationalité, et ce qui est satisfaisant pour une personne.
-    </p>
-    <p>Mais l’hypothèse de la rationalité économique peut paraître incomplète lorsque l’on prend en compte la dimension cognitive des individus. En effet, les états émotionnels rentrent en compte dans les prises de décisions des individus, leurs
-      faisant parfois faire des choix ne suivant pas des principes rationnels. Par exemple, faire des études qui permettent d’avoir un métier sûr ensuite est un choix rationnel, mais on peut décider de choisir une voie moins assurée parce qu’elle
-      nous plaît davantage.</p>
+    <h3>Sed tortor lectus</h3> ornare in finibus sed, porttitor ut enim. Aliquam quis lobortis sapien. Curabitur mollis quam urna, quis tempus odio malesuada et. Proin nec augue aliquet, sagittis dolor in, egestas velit. Quisque in semper dolor, vel gravida sapien. Nunc lobortis ac dui nec laoreet. Sed viverra eget nulla sit amet imperdiet. Nunc feugiat pellentesque felis, tincidunt ultricies leo tincidunt lacinia. Donec bibendum ante sit amet magna consequat, id tincidunt nibh vehicula. Sed bibendum rutrum laoreet. Nunc et porta libero, finibus placerat purus. Sed rhoncus hendrerit dignissim. Fusce non ligula ultricies, maximus nisi non, molestie purus. Mauris sed neque ante. In quis purus eleifend, varius mi eu, varius dolor. Curabitur dictum risus sit amet facilisis tristique.
 
-    <h2>Pourquoi se poser la question des émotions en économie ?</h2>
-    <p>La question des émotions et affects en économie permet de comprendre des problèmes qui ne sont pas résolus par la seule hypothèse de rationalité. C'est le cas par exemple du jeu de l'ultimatum, où les résultats théoriques partant de
-      l'hypothèse de rationalité ne correspondent pas aux résultats expérimentaux.
-      <br />D'après Delphine Van Hoorebeke [8], la rapidité de notre cerveau à faire des choix implique qu'il soit orienté par l'émotion. Il n'est pas capable d'évaluer tous les choix possibles, et toutes leurs conséquences. Il y a donc un tri des
-      choix possible, orienté par notre émotion.
-    </p>
+    Vestibulum hendrerit eros mi, vitae cursus lorem porttitor fringilla. Morbi dui nisl, tempus ut erat vel, interdum dictum felis. Nam sit amet pellentesque odio. Cras pretium convallis suscipit. Quisque nec risus scelerisque, dignissim metus quis, maximus neque. Aliquam pretium mauris et fermentum tempor. Suspendisse rhoncus tortor ut sem aliquam consectetur. Nullam eu lacus ut neque vehicula cursus vel id ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec risus diam, imperdiet quis augue in, auctor elementum ex. In hac habitasse platea dictumst. Maecenas sagittis vel nibh nec faucibus. Aenean ligula sem, tincidunt eget dictum ac, sagittis convallis erat. Pellentesque suscipit mauris vel purus dapibus volutpat. Nullam porta aliquet aliquam. Nullam nec sollicitudin neque.
 
+    <h2>Phasellus dapibus dolor</h2> eget fermentum laoreet. Aenean vel nibh pulvinar, posuere velit euismod, molestie metus. Cras et risus imperdiet, viverra est bibendum, laoreet massa. Aenean eleifend gravida dui, eget blandit felis mattis eu. Quisque ullamcorper mi et augue porttitor, ac porta libero accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc congue, mauris quis elementum sodales, erat sapien pretium lectus, vitae pharetra diam nibh sit amet libero. Suspendisse commodo, dui id dapibus feugiat, tortor ipsum pulvinar ligula, sed luctus augue felis et orci. Integer aliquam eget diam in egestas. Morbi congue venenatis neque, ac aliquet libero congue non. Phasellus non vestibulum mi, quis viverra lorem. Nunc faucibus sit amet felis a consequat. Vestibulum maximus ipsum vulputate nisl vehicula pharetra. Fusce finibus tellus in purus malesuada dictum.
+
+    Vestibulum cursus urna ex, vitae tempus purus feugiat quis. Nullam consectetur dapibus iaculis. Nulla imperdiet finibus lectus, eu hendrerit odio faucibus quis. Donec facilisis mattis lacus nec laoreet. Ut in tempor purus, in pellentesque risus. Phasellus fermentum congue pellentesque. Quisque non lectus sed nulla lobortis mattis. Nullam fringilla turpis id neque accumsan tempor.
+
+    <h2>Nullam vitae pharetra nisi</h2> Praesent eu posuere nisl, vitae iaculis erat. In dictum metus quis justo rhoncus suscipit sit amet in turpis. Maecenas porta diam sapien, a sodales mi lobortis vel. In molestie congue ornare. Aliquam et orci lacinia, aliquam urna vel, congue justo. Sed ultrices a odio at dapibus. Aenean vel quam at eros tincidunt aliquam posuere faucibus felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+    Quisque orci enim, pharetra sit amet varius nec, posuere nec felis. Nullam convallis rutrum massa, hendrerit pretium neque mattis id. Aliquam scelerisque scelerisque nunc et tincidunt. Proin et consequat risus. Cras metus est, vehicula et ex nec, efficitur ullamcorper purus. Aliquam vehicula felis ut facilisis consectetur. Quisque luctus viverra iaculis. Morbi ornare faucibus suscipit. Morbi feugiat metus quis nisl ullamcorper, convallis suscipit mi scelerisque. Mauris malesuada nisl eu vehicula posuere. Cras in ante sagittis, porttitor magna et, laoreet ipsum. In nec iaculis sem. Donec sagittis vulputate ante, et vestibulum purus vulputate nec. Ut convallis turpis at posuere accumsan. Duis volutpat a mi nec varius. Suspendisse auctor elit eget leo consectetur fringilla.
+
+    Praesent vel viverra ipsum. Nam auctor bibendum mi, a lacinia odio porta in. Aenean quis luctus lectus. Aenean auctor condimentum justo nec auctor. Quisque eget vestibulum nunc, id molestie dolor. Aliquam eu nibh at augue dictum semper a eu lacus. Quisque tincidunt felis enim, ac ullamcorper lectus convallis in. Integer leo sem, ornare sit amet laoreet ac, pretium quis leo.
+
+    Mauris fermentum tortor nec placerat dictum. Etiam et diam eleifend, sollicitudin odio id, hendrerit nunc. Nulla facilisi. Pellentesque sit amet lacus libero. Vestibulum sed vehicula nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce metus risus, vestibulum vel molestie vitae, eleifend non risus. Morbi facilisis urna a malesuada euismod. Vestibulum quis diam congue, rutrum tortor id, consectetur odio. Duis tempor pulvinar libero. Nullam magna mi, faucibus vel ante non, pharetra varius velit. Integer non sollicitudin dolor. Praesent consectetur sem est, quis sagittis turpis elementum non. Phasellus quis leo imperdiet, rutrum ex sed, fringilla enim. Duis magna erat, mollis vitae nisl a, bibendum iaculis orci. Pellentesque bibendum semper porttitor.
+
+    Sed eu eros vitae eros iaculis ultricies. Nulla semper est augue, at tincidunt turpis dictum et. Sed varius diam sit amet turpis feugiat, ut porttitor ex mollis. Quisque viverra risus non ultricies feugiat. Integer eleifend odio magna, vel ultricies ligula pretium ac. Donec mauris mi, molestie nec leo et, sollicitudin condimentum massa. Praesent consectetur ultricies enim id blandit.
+
+    Vestibulum interdum magna metus, eget fermentum sapien sodales et. Cras tellus risus, ultrices eu facilisis ac, commodo eget mauris. Ut at cursus neque. Nam molestie ut nibh et posuere. Quisque convallis vulputate elementum. In vehicula, diam ut fermentum molestie, sem mauris pretium risus, porta rutrum ex arcu vel ex. Sed turpis ante, lacinia sit amet purus pharetra, viverra sodales justo. Morbi iaculis arcu sit amet odio lobortis, quis iaculis est scelerisque. Donec consectetur ipsum felis, vitae gravida diam interdum quis. Praesent vitae libero vitae magna sollicitudin fringilla at vitae sem. Suspendisse in libero orci. Suspendisse ultricies, ipsum ut faucibus finibus, orci turpis viverra magna, vitae rhoncus mauris tellus in risus. Mauris volutpat imperdiet arcu sed tincidunt. Maecenas rhoncus ac nibh vitae dictum.
+
+    Vivamus et aliquam augue, id egestas enim. Proin placerat nunc ut libero porta ornare. Suspendisse vestibulum, mi eget vestibulum pretium, nisi est rhoncus nisi, eu tempus augue erat eu lacus. Fusce egestas aliquam ante, et finibus leo scelerisque id. Nullam dapibus urna in orci egestas, eu vehicula sem iaculis. In vitae iaculis arcu. Vestibulum egestas tincidunt ipsum vel tristique.
+
+    Suspendisse in felis augue. In neque metus, tempor non aliquet ut, auctor vitae erat. Pellentesque hendrerit sapien sed lacus luctus mattis. In tempor lectus id aliquam molestie. Nulla semper in dui suscipit facilisis. Vivamus luctus magna in enim elementum, sed euismod tortor iaculis. Sed arcu turpis, lacinia eget ex nec, lacinia suscipit elit. Nullam et purus magna.
+
+    Mauris convallis pharetra risus et vulputate. Quisque quis justo ac est mattis venenatis eu eu nisl. Aliquam a nisi condimentum, suscipit neque sit amet, molestie quam. Sed tincidunt metus et porttitor luctus. Vivamus sit amet volutpat ex. Vestibulum ac lacus semper, ornare massa condimentum, sodales sem. Sed gravida augue sed hendrerit congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et elementum risus. Quisque dui sapien, rhoncus in pretium malesuada, lobortis quis est. Curabitur ac lacus congue, maximus ex at, ultricies libero. In hac habitasse platea dictumst. Aliquam fringilla finibus sollicitudin.
   </main>
 </div>
 
