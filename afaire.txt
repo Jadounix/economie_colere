@@ -1,0 +1,2 @@
+Ne pas utiliser le style de feuille A4 pour le site : faire un truc plus léger et ludique.
+En revanche, mettre un bouton pour imprimer la page en bas, qui utilise le style print.

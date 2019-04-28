@@ -1,0 +1,291 @@
+/*FONTS*/
+@import url('https://fonts.googleapis.com/css?family=Acme');
+
+
+/*Base elements*/
+.slide > *{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; /*Si tu rajoutespadding/border, ça va réduire l'intérieur*/
+  font-family: 'Acme', sans-serif;
+  position: absolute;
+
+}
+
+
+
+#game h1{
+  font-size: 2.5em;
+}
+
+.rightArrow{
+  height:100px;
+  width: 100px;
+  transform: translate(260px,390px);
+  background: url('../images/jeu/right.svg');
+  animation: arrowShake .8s infinite;
+  cursor:pointer;
+  filter: opacity(0.2);
+}
+
+@keyframes arrowShake {
+  0%{
+    transform: translate(260px,390px);
+  }
+  30%{
+    transform: translate(270px,390px);
+    filter: opacity(1);
+  }
+  100%{
+    transform: translateX(260px,390px);
+  }
+}
+
+#game{
+  width: 640px;
+  height: 500px;
+  position: relative;
+  margin:20px auto 40px;
+  background-color: #F2F3F4;
+  border-radius:6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  scroll-behavior: smooth;
+
+}
+
+#slide0{
+  background : url('../images/jeu/background.png');
+}
+
+.slide{
+  width: 100%;
+  flex-shrink: 0;
+  height: 100%;
+  /* outline: 2px solid grey; */
+  padding: 10px;
+}
+
+
+/*SUR PLUSIEURS SLIDES*/
+.myMoneyZone{
+  /* outline: 1px solid blue; */
+  width: 180px;
+  height: 100px;
+  transform: translate(75px,337px);
+  transition: transform 1s ease-in-out;
+
+}
+
+.theirMoneyZone{
+  width: 180px;
+  height: 100px;
+  /* outline: 1px solid deeppink; */
+  transform: translate(390px,340px);
+  transition: transform 1s ease-in-out;
+
+  z-index: 4;
+}
+
+.sac_argent{
+  /* outline: solid 1px yellow; */
+  background: url('../images/jeu/sac.png');
+  background-repeat:no-repeat;
+  background-size: contain;
+  width:80px;
+  height: 80px;
+  position: absolute;
+}
+.smoke{
+  /* outline: solid 1px yellow; */
+  background: url('../images/jeu/smoke.gif');
+  background-repeat:no-repeat;
+  background-size: contain;
+  width:80px;
+  height: 80px;
+  position: absolute;
+
+}
+
+.zone-reponse{
+  width: 300px;
+  height: 100px;
+  transform: translate(170px,200px);
+  /* outline: 1px solid deeppink; */
+}
+
+.button{
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  border-radius: 3px;
+  height: 60px;
+  width: 120px;
+  font-size: 1.3em;
+  font-weight: bolder;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 60px;
+  margin: auto;
+  cursor: pointer;
+}
+
+.reponse-oui{
+  background: #5DADE2;
+  /* outline: 1px solid green; */
+  /* transform: translate(20px, 20px); */
+}
+.reponse-non{
+  background: #E59866;
+  /* outline: 1px solid green; */
+  /* transform: translate(160px, 20px) */
+}
+
+.makeOfferButton{
+  background: #A2D9CE;
+  transform:translate(260px,200px);
+}
+
+
+/*SLIDE 1*/
+#game-title{
+  font-size: 3em;
+  transform: translateX(125px);
+}
+
+#jouer{
+  font-size: 2em;
+  height: 40px;
+  width: 120px;
+  border-radius: 4px;
+  background: #CD6155;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transform: translate(250px,400px);
+  text-align: center;
+}
+
+/*Slide 2*/
+#regles{
+  text-align:left;
+  width: 70%;
+  transform: translate(120px,15px);
+  border-left: 2px solid #CCC;
+  padding-left: 5px;
+  font-size: 1.1em;
+}
+#regles em{
+  color:#B71C1C;
+}
+#titre_regles{
+  /* transform: translate(20px, 20px); */
+}
+
+/*Bonhommes*/
+.moi{
+  width: 200px;
+  height: 300px;
+  background: url('../images/jeu/moi.png') 0px 0px;
+  transform: translate(10px,145px);
+  /* z-index: 3; */
+}
+
+.partenaire{
+  width: 200px;
+  height: 300px;
+  background: url('../images/jeu/partenaire.png') 0px 0px;
+  transform: translate(420px,145px);
+  /* z-index: 3; */
+}
+
+.proposition{
+  font-size: 2em;
+  font-weight: bold;
+  transform: translate(270px,80px);
+}
+
+.offre{
+  transform: translate(300px,130px);
+  font-size: 2.5em;
+  font-weight: bold;
+  color: blue;
+}
+
+/*Slide 4*/
+
+.rappel{
+  transform: translate(170px,45px);
+}
+
+.onVousPropose{
+  transform: translate(10px,10px);;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 60%;
+  height: 15px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+  transform: translate(130px,100px);
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #C0392B;
+  cursor: pointer;
+}
+
+.yourOfferNow{
+  transform: translate(10px,10px);
+}
+
+/*Slide 5*/
+.loading_div{
+  transform: translate(200px,100px);
+}
+
+.questionnaire{
+  /*outline:1px solid green;*/
+  padding : 10px;
+  min-height:200px;
+  width : 440px;
+  transform:translate(120px, 40px);
+  background:#FFF;
+  border-radius:12px;
+  /* border : 3px solid black; */
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.coteacote{
+  display: flex;
+}
+
+.triangle{
+  height: 30px;
+  width: 30px;
+  /* background: url('../images/jeu/triangle.png'); */
+  /* outline:1px solid black; */
+  transform:translate(45px, 135px);
+  animation: triangleShake 1.2s infinite;
+}
+
+@keyframes triangleShake {
+  0%{
+    transform: translate(45px,135px);
+  }
+  50%{
+    transform: translate(45px,140px);
+    filter: opacity(1);
+  }
+  100%{
+    transform: translateX(45px,135px);
+  }
+}

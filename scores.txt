@@ -1,0 +1,72 @@
+[3,5,4,1,0,2]/[true,true,true,false,false,false]/[["satisfaction"],["gratitude","surprise","satisfaction"],["satisfaction"],["irritation"],["colere","surprise"],["mepris"]]/3/ChÃ©pa
+[3,1,4,5,0,2]/[false,false,true,true,false,false]/[["irritation"],["colere"],["satisfaction"],["satisfaction"],["colere","mepris"],["mepris"]]/2/Je suis radin
+[2,3,4,1,0,5]/[true,true,true,false,false,true]/[["gratitude"],["satisfaction"],["gratitude"],["colere"],["colere","mepris","envie","irritation"],["gratitude","satisfaction"]]/5/EquitÃ© !
+[4,3,5,2,0,1]/[false,false,false,false,false,false]/[["satisfaction"],["satisfaction"],["satisfaction"],["satisfaction"],["satisfaction"],["satisfaction"]]/4/couol
+[2,4,5,1,3,0]/[true,true,true,true,true,false]/[["gratitude"],["gratitude"],["gratitude"],["gratitude"],["gratitude"],["colere"]]/5/parce que
+[2,1,5,0,4,3]/[true,false,true,false,true,true]/[["irritation"],["colere"],["gratitude","surprise","satisfaction"],["mepris"],["gratitude","satisfaction"],["satisfaction"]]/3/Je ne prends pas le risque du refus de l'offre.
+
+[1,5,2,3,4,0]/[false,true,false,false,false,false]/[["irritation"],["satisfaction"],["colere","irritation"],["colere","irritation"],["colere"],["colere","mepris","irritation"]]/5/Tous le monde est contents et il y a beaucoup de chances que l'autre accepte puisqu'on aura la mÃªme somme d'argents
+[3,2,1,0,4,5]/[true,false,false,false,true,true,true]/[["irritation"],["colere"],["surprise"],["satisfaction"],["gratitude"],["gratitude"],["satisfaction"]]/5/Partage Ã©quitable
+[2,0,3,1,4,5]/[true,true,true,true,true,true]/[["gratitude"],["surprise"],["gratitude"],["gratitude"],["satisfaction"],["gratitude","satisfaction"]]/5/Je privilÃ©gie l'Ã©quitÃ© mÃªme si les autres n'en font pas autant. Entre avoir 1 euros ou rien mieux vaut 1. Aucune raison de refuser.
+[4,5,3,1,0,2]/[true,true,true,true,false,true]/[["irritation"],["gratitude"],["irritation"],["irritation"],["irritation"],["irritation"]]/1/Lâ€™autre personne a intÃ©rÃªt Ã  lâ€™accepter, car en lâ€™acceptant elle maximise ses gains, car si elle refuse elle obtiendra 0â‚¬ . Ã‰tant donnÃ© cela, jâ€™ai intÃ©rÃªt Ã  proposer la somme minimale
+[0,1,2,3,4,5]/[false,false,false,true,true,true]/[["mepris","irritation","surprise"],["mepris","irritation"],["irritation"],["envie"],["envie"],["gratitude","satisfaction"]]/4/Je donne 4â‚¬, assez pour mettre toutes les chances de mon cÃ´tÃ© pour qu'il accepte tout en gagnant le plus possible
+[0,5,3,4,1,2]/[false,true,true,true,false,true]/[["irritation"],["satisfaction"],["irritation","satisfaction"],["satisfaction"],["irritation"],["irritation"]]/4/Car il pour seulement 2â‚¬ de diffÃ©rence avec moi, il me semble raisonnable quâ€™il accepte. Si je donne plus, câ€™est moins intÃ©ressant pour moi. Si je donne moins, il y a plus dâ€™en chance quâ€™il refuse.
+[5,2,1,0,4,3]/[true,false,false,false,false,false]/[["gratitude"],["mepris"],["mepris"],["mepris"],["irritation"],["mepris"]]/1/Jsuis pas sa pute
+[4,2,5,1,0,3]/[false,false,true,false,false,false]/[["envie"],["mepris"],["gratitude"],["irritation"],["colere"],["mepris"]]/4/4â‚¬ est la somme que le joueur adverse peut accepter par ce quâ€™il prÃ©fÃ¨re avoir 4â‚¬ plutÃ´t que 0â‚¬.
+[1,5,3,2,0,4]/[true,true,true,true,false,true]/[["colere"],["satisfaction"],["mepris"],["irritation"],["satisfaction"],["envie"]]/1/Car il prÃ©fÃ©rera gagner 1â‚¬ plutÃ´t que rien du tout
+[3,1,2,5,4,0]/[true,true,false,true,true,false]/[["satisfaction"],["surprise"],["surprise"],["gratitude","satisfaction"],["gratitude","satisfaction"],["envie"]]/5/MoitiÃ©-moitiÃ©, Ã©quitable
+[3,2,5,0,1,4]/[false,false,true,false,false,false]/[["surprise"],["irritation"],["satisfaction"],["colere"],["irritation"],["irritation"]]/0/c'est une erreur
+[0,2,1,5,4,3]/[false,false,false,true,true,true]/[["mepris","irritation","surprise"],["mepris","irritation"],["colere","mepris","irritation"],["gratitude","surprise","satisfaction"],["gratitude","irritation","satisfaction"],["colere","irritation"]]/5/autant etre honnete et faire moitiÃ© moitiÃ©
+[1,3,5,2,4,0]/[false,false,true,false,false,false]/[["irritation","surprise"],["irritation"],["satisfaction"],["irritation"],["irritation"],["irritation","surprise"]]/2/Je fais comme le personnage rouge et propose une offre assez faible pour elle
+[3,1,0,5,4,2]/[false,false,false,true,true,false]/[["irritation"],["colere"],["colere"],["satisfaction"],["surprise"],["irritation"]]/1/elle a voulu me la faire tout le long du jeu.....
+
+[5,2,3,0,1,4]/[true,true,true,true,true,true]/[["gratitude"],["gratitude"],["gratitude"],["satisfaction"],["gratitude"],["gratitude"]]/3/Câ€™est le prix moyen que jâ€™ai acceptÃ©
+[2,4,3,5,1,0]/[true,true,false,true,false,false]/[["irritation"],["satisfaction"],["irritation"],["gratitude"],["mepris"],["mepris"]]/5/partage Ã©quitable
+[2,0,4,1,5,3]/[false,false,true,false,true,false]/[["mepris","irritation","surprise"],["mepris","irritation","surprise"],["satisfaction"],["mepris","irritation","surprise"],["satisfaction"],["mepris","irritation","surprise"]]/5/Je partage en deux part Ã©gal les 10 euros
+[3,2,0,1,5,4]/[false,false,false,false,true,true]/[["surprise"],["irritation"],["colere"],["colere"],["satisfaction"],["satisfaction"]]/5/Câ€™est le juste milieu
+[3,4,0,2,5,1]/[false,false,false,false,true,false]/[["mepris"],["mepris"],["irritation"],["mepris"],["satisfaction"],["colere"]]/5/Ã‰galitÃ©
+[2,0,1,4,5,3]/[true,false,true,true,true,true]/[["mepris"],["mepris"],["mepris"],["gratitude"],["gratitude","satisfaction"],["mepris"]]/1/Pour le joueur rouge, il est toujours plus avantageux de gagner 1 plutÃ´t que rien du tout
+[0,5,2,4,1,3]/[false,true,false,true,false,true]/[["mepris"],["gratitude"],["irritation"],["satisfaction"],["surprise"],["satisfaction"]]/5/Offre moyenne
+[5,4,0,3,2,1]/[true,true,true,true,true,true]/[["satisfaction"],["gratitude"],["surprise"],["gratitude"],["gratitude"],["gratitude"]]/5/Si on considÃ¨re qu'on m'a gratuitement donnÃ© cet somme de 10 euros, alors je partage la moitiÃ© avec mon ami.
+[4,5,1,2,3,0]/[true,true,true,true,true,false]/[["gratitude"],["gratitude","satisfaction"],["surprise"],["irritation"],["irritation"],["colere"]]/4/Presque la moitiÃ©
+[3,2,1,5,4,0]/[false,true,false,true,true,false]/[["irritation"],["colere"],["irritation"],["gratitude"],["gratitude"],["mepris"]]/6/Je suis sÃ»r qu'elle va accepter et j'accepte 4â‚¬
+[2,3,4,0,5,1]/[false,true,true,true,true,true]/[["colere","irritation"],["colere","irritation"],["colere","irritation"],["colere","irritation"],["satisfaction"],["colere","irritation"]]/5/Partage Ã©gal
+[1,4,5,3,2,0]/[false,false,true,false,false,false]/[["mepris"],["mepris"],["satisfaction"],["mepris"],["mepris"],["colere"]]/5/Vivons dans une societe de partage
+[4,5,2,1,0,3]/[true,true,true,true,false,false]/[["surprise"],["satisfaction"],["surprise"],["surprise"],["surprise"],["surprise"]]/1/C'est mieux que rien
+
+[5,3,4,1,0,2]/[true,false,false,false,false,false]/[["surprise"],["surprise"],["surprise"],["irritation"],["mepris"],["mepris"]]/1/essai
+[2,3,5,0,1,4]/[true,true,true,false,false,true]/[["irritation"],["colere","irritation"],["surprise","satisfaction"],["colere"],["colere"],["irritation"]]/5/Je gagne de l'argent avec cette personne, je partage la somme
+[3,5,1,0,2,4]/[true,true,false,false,false,true]/[["irritation","surprise"],["gratitude","satisfaction"],["colere","irritation"],["colere","mepris"],["colere","irritation"],["surprise"]]/5/C'est bien rÃ©parti, je trouve Ã§a juste.
+[2,3,4,1,0,5]/[false,false,true,false,false,true]/[["irritation"],["irritation"],["gratitude"],["mepris"],["colere"],["surprise"]]/5/Ã‰quitablement distribuÃ© ðŸ‘ŒðŸ½
+[0,3,5,4,2,1]/[false,true,true,true,false,false]/[["mepris","surprise"],["gratitude"],["gratitude","satisfaction"],["gratitude"],["mepris"],["colere"]]/5/La moitiÃ©
+[2,0,1,3,5,4]/[false,false,false,false,true,true]/[["mepris"],["irritation"],["mepris"],["irritation"],["gratitude"],["surprise","satisfaction"]]/4/Câ€™est dÃ©jÃ  une bonne mise
+[3,0,2,4,5,1]/[true,true,true,true,true,true]/[["gratitude"],["surprise"],["gratitude"],["gratitude"],["surprise"],["satisfaction"]]/7/Chiffre porte bonheur
+[1,0,2,5,3,4]/[true,false,true,true,true,true]/[["satisfaction"],["mepris"],["gratitude"],["envie"],["satisfaction"],["satisfaction"]]/4/C'est une offre gÃ©nÃ©reuse presque equitable
+[5,2,0,4,3,1]/[true,true,true,true,true,true]/[["gratitude","satisfaction"],["mepris"],["mepris"],["gratitude"],["gratitude"],["gratitude","mepris"]]/5/Ã‰quitable
+[1,4,5,3,0,2]/[false,true,true,false,false,false]/[["irritation"],["satisfaction"],["gratitude","satisfaction"],["colere","mepris","irritation"],["colere","irritation"],["colere","irritation"]]/5/MoitiÃ© moitiÃ© c'est le partage
+[0,4,1,2,5,3]/[false,true,false,false,true,false]/[["surprise"],["gratitude"],["irritation"],["irritation"],["gratitude"],["irritation"]]/5/MoitiÃ© moitiÃ©
+[1,5,3,4,0,2]/[false,true,false,false,false,false]/[["irritation"],["satisfaction"],["mepris"],["irritation"],["colere"],["surprise"]]/5/C'est la moitiÃ© de 10 euros, le partage est Ã©quitable et juste
+[1,4,3,2,0,5]/[true,true,true,true,true,true]/[["surprise"],["gratitude"],["gratitude","satisfaction"],["satisfaction"],["surprise"],["gratitude","satisfaction"]]/4/Presque la moitiÃ© mais pour voir l'Ã©tat d'esprit de la personne en face
+[1,5,3,2,0,4]/[false,true,true,false,false,true]/[["irritation","surprise"],["satisfaction"],["satisfaction"],["irritation"],["mepris","irritation"],["satisfaction"]]/5/Câ€™est Ã©quitable
+[2,3,4,5,0,1]/[false,false,false,true,false,false]/[["irritation","surprise"],["irritation","surprise"],["irritation","surprise"],["satisfaction"],["colere","irritation"],["colere","irritation"]]/0/Un ratÃ©
+[0,4,2,3,1,5]/[false,false,false,false,false,false]/[["colere"],["irritation"],["colere"],["colere"],["colere"],["colere"]]/5/On fait moitiÃ©-moitiÃ©, tout le monde est content
+[5,1,3,0,2,4]/[true,false,true,false,false,true]/[["irritation"],["colere","mepris"],["envie","surprise"],["colere"],["mepris"],["envie"]]/3/Je prÃ©fÃ¨re en garder une plus grande partie pour moi et cela reste raisonnable
+[4,3,2,1,0,5]/[true,false,false,false,false,true]/[["satisfaction"],["irritation"],["irritation"],["irritation"],["colere"],["gratitude"]]/4/Ã©quitable
+[3,0,5,4,2,1]/[true,false,true,true,false,false]/[["gratitude"],["surprise"],["gratitude"],["gratitude"],["mepris"],["mepris"]]/5/On fait moitiÃ© moitiÃ© !
+[1,3,0,4,5,2]/[true,true,false,true,true,false]/[["colere"],["colere"],["colere"],["satisfaction"],["satisfaction"],["irritation"]]/5/Pour partager Ã©quitablement 10 â‚¬ en 2, cela revient a donner 5â‚¬ Ã  chacun des 2. Cela dit il s'agit plutot d'un partage Ã©gal. Le mieux serait un partage Ã©quitable
+[5,0,1,4,3,2]/[true,true,true,true,true,true]/[["gratitude"],["irritation"],["irritation"],["satisfaction"],["irritation"],["irritation"]]/5/c'est Ã©quitable
+
+[1,3,0,5,4,2]/[true,true,false,true,false,false]/[["mepris","surprise"],["surprise"],["mepris","irritation"],["satisfaction"],["mepris"],["mepris"]]/3/Je commence bas pour "tÃ¢ter le terrain" et cette personne Ã  bien essayÃ© de m'arnaqueur tout Ã  l'heure
+[4,3,0,1,2,5]/[true,true,false,false,true,true]/[["gratitude","surprise"],["envie","surprise"],["colere"],["irritation","surprise"],["mepris","irritation","surprise"],["gratitude","satisfaction"]]/5/Juste
+[0,5,4,3,2,1]/[false,true,false,false,false,false]/[["mepris","envie"],["satisfaction"],["mepris","envie"],["mepris","envie"],["mepris","irritation"],["mepris","irritation"]]/2/Le personnage en face n'est pas Ã©quitable, il n'y a pas de raison que je le sois.
+[2,0,3,5,4,1]/[true,false,false,true,false,false]/[["envie","irritation","satisfaction"],["irritation","surprise"],["envie","irritation"],["gratitude","satisfaction"],["irritation"],["colere","irritation"]]/5/Ã©quitable, diminue les chances de refus tout en maximisant le gain ?
+[3,0,2,1,5,4]/[true,false,true,true,true,true]/[["irritation"],["colere"],["irritation"],["irritation"],["satisfaction"],["satisfaction"]]/5/J'offre 5 pour qu'il accepte les autres, et parce que j'aime bien aider les autres. J'ai acceptÃ© jusqu'Ã  1 parce que tant qu'il y a de l'argent j'accepte. C'est pas trÃ¨s sympa mais mieux que rien.Je voudrais pouvoir nÃ©gocier avec la personne et lui dire : donne moi 5 euros ou si je refuse et tu ne reÃ§ois rien.Nino
+[2,1,5,0,4,3]/[false,false,true,false,false,false]/[["mepris"],["irritation"],["satisfaction"],["surprise"],["irritation"],["irritation"]]/0/J'ai mal cliquÃ©. je voulais proposer 5 euros
+[0,4,3,5,1,2]/[false,true,false,true,false,false]/[["irritation"],["irritation"],["irritation"],["gratitude","satisfaction"],["colere","irritation"],["irritation"]]/5/on partage toujours Ã©quitablement la somme quand on est rÃ©glo
+[3,5,1,2,4,0]/[true,true,false,false,true,false]/[["satisfaction"],["satisfaction"],["irritation"],["surprise"],["satisfaction"],["colere","irritation"]]/3/Equilibrons la balance
+[4,1,5,2,3,0]/[false,true,false,true,true,true]/[["gratitude","colere"],["irritation"],["colere"],["gratitude"],["envie"],["surprise"]]/8/.
+[4,3,2,5,0,1]/[true,false,false,true,false,false]/[["satisfaction"],["irritation"],["mepris","irritation"],["gratitude"],["colere","mepris","surprise"],["mepris","irritation"]]/5/Soyons sympa <3
+[5,1,3,4,0,2]/[true,false,true,true,true,false]/[["satisfaction"],["irritation"],["irritation"],["irritation"],["colere"],["mepris"]]/5/RÃ©partition Ã©gale du bien
+[3,4,0,2,5,1]/[false,false,false,false,true,false]/[["irritation"],["irritation","surprise"],["colere","surprise"],["colere","irritation"],["satisfaction"],["mepris","surprise"]]/4/je veux avoir une plus grande somme que l'autre sans prendre le risque d'un refus
+[3,1,0,2,5,4]/[true,false,false,true,true,true]/[["envie"],["surprise"],["surprise"],["gratitude"],["satisfaction"],["gratitude"]]/9/Merci petite fille rose
+[3,1,0,5,4,2]/[true,true,false,true,false,false]/[["surprise"],["colere","mepris","irritation"],["satisfaction"],["gratitude"],["irritation"],["colere","irritation"]]/5/c'est juste (et c'est un Ã©motion)

@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200');
+@import url('style_jeu.css');
+/*--------------------GENERAL-------------------*/
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body
+{
+	background-color: #000;
+}
+
+header
+{
+	/* height:90px; */
+	/* padding-bottom: 8px; */
+	font-family: 'Source Sans Pro', sans-serif;
+}
+footer{
+	background-color: black;
+	height:70px;
+	bottom: 0;
+	display: flex;
+}
+
+
+/*--------------------TRUC EN HAUT-------------------*/
+
+
+.bloc-titre{
+	/* outline: solid 2px red; */
+	display: block;
+	padding-left: 40px;
+	background-color: black;
+	width: 100vw;
+
+}
+
+.title{
+	color:white;
+	font-size: 3.5em;
+	margin-top: 16px;
+	text-decoration: none;
+}
+
+.menu{
+	/* outline: solid 1px blue; */
+
+	display: flex;
+	color:#E0E0E0;
+	background-color: black;
+	padding-left: 60px;
+	padding-bottom: 4px;
+	width: 100vw;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+
+
+}
+
+.menu * {
+	color:#E0E0E0;
+	margin: 3px  12px;
+	font-size:1.4em;
+	text-decoration: none;
+	/* outline: solid 1px green; */
+}
+
+
+ .menu a:hover
+{
+	color:#B71C1C;
+	transition: 0.3s ease-in-out all;
+}
+
+.menu .selected{
+	color:#B71C1C;
+}
+
+.fixed{
+  position: fixed;
+	top:0;
+  z-index: 5;
+}
+
+/*------------------------ CONTENU -----------------------------*/
+
+
+.background{
+	background-color: #EEE;
+	padding: 20px;
+	min-height: 400px;
+}
+
+.background p{
+	font-family: "Times New Roman"
+}
+
+/*------------------------ FEUILLE -----------------------------*/
+
+.feuille{
+	position: relative;
+	width:800px;
+	height: 1131px;
+	background-color: white;
+	margin:  14px auto;
+	min-height: 400px;
+	padding: 80px 40px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.feuille *{
+	/* outline: 1px solid #e0d2d2; */
+}
+
+.feuille h1{
+	margin-bottom: 35px;
+	text-align: center;
+}
+
+.feuille h2{
+	margin: 25px 0 15px;
+}
+
+.feuille p{
+	margin: 0 0 10px 10px;
+}
+
+/*------------------------Version 2 du corps-----------------*/
+
+.container{
+	display: flex;
+	width: 1200px;
+	flex-direction: row-reverse;
+	margin: auto;
+	/* outline: 1px solid green; */
+	background: #FFF;s
+
+}
+.table-of-contents {
+	font-family: 'Source Sans Pro', sans-serif;
+	padding: 20px;
+  position: relative;
+  flex-basis: 260px;
+  /* background: linear-gradient(to right,#CCC,#EEE); */
+	margin-left: 40px;
+	/* box-shadow:0px 0 0px 0px #000000,-6px 0 7px -10px #000000; */
+
+}
+.table-of-contents p {
+  text-transform: uppercase;
+  letter-spacing: 0.125em;
+  color: #222;
+}
+.table-of-contents ul {
+  position: fixed;
+  /* Chrome (asshole) */
+  position: sticky;
+  /* Firefox */
+  margin-top: 2em;
+  top: 4em;
+}
+.post-content {
+	padding: 20px;
+  /* flex-basis: 800px; */
+  max-width: 100%;
+	/* background: #FFF; */
+
+}
+
+/* TOC part */
+
+.table-of-contents svg {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  bottom: auto;
+  display: none;
+  stroke: #B71C1C;
+  transform: translateY(-50%);
+}
+
+.toc-reading svg {
+  display: block;
+}
+
+.table-of-contents ul {
+  width: 200px;
+  counter-reset: articles;
+  padding: 0;
+}
+
+.table-of-contents li {
+  display: block;
+  counter-increment: articles;
+}
+
+.table-of-contents li + li {
+  margin-top: 2em;
+}
+
+.table-of-contents a {
+  display: block;
+  padding: 0 1.1em 0 3.2em;
+  position: relative;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+a.toc-reading,
+a.toc-already-read.toc-reading {
+  color: #B71C1C;
+  opacity: 1;
+}
+
+a.toc-already-read {
+  opacity: 0.4;
+}
+
+.table-of-contents a:before {
+  content: counter(articles, decimal);
+  position: absolute;
+  bottom: auto;
+  left: 0;
+  top: 50%;
+  width: 36px;
+  height: 36px;
+  line-height: 34px;
+  text-align: center;
+  transform: translateY(-50%);
+  transition: background-color 0.3s ease 0s, color 0.3s ease 0s;
+  border-radius: 50%;
+  box-shadow: 0 0 0 1px #d9d9d9 inset;
+  color: #4d4d4d;
+}
+
+/*Stylisation du texte de postcontent*/
+
+h1{
+	padding-bottom: 20px;
+}
+
+h2{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+h3{
+	padding-top: 15px;
+	padding-bottom: 8px;
+}
+
+/*-------------------------ABSTRACT--------------------------*/
+.paper-stack {
+  background: #fff;
+  width: 1000px;
+	padding: 10px;
+  border: 1px solid #ccc;
+  position: relative;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0 8px 10px rgba(0, 0, 0, 0.15), 0 8px 10px rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 0 8px 10px rgba(0, 0, 0, 0.15), 0 8px 10px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.15), 0 8px 10px rgba(0, 0, 0, 0.05);
+  margin: 0px auto 0;
+  height: 200px;
+}
+.paper-stack:before, .paper-stack:after {
+  content: '';
+  position: absolute;
+  background: #e6e6e6;
+  border: 1px solid #ccc;
+  height: 2px;
+}
+.paper-stack:before {
+  width: 994px;
+  bottom: -4px;
+  left: 1px;
+  z-index: 2;
+}
+.paper-stack:after {
+  width: 994;
+  bottom: -15px;
+  left: 3px;
+  z-index: 1;
+}
+.paper-stack h2 {
+  text-align: center;
+  color: #333;
+}
+
+/*------------------------ PIED -----------------------------*/
+
+#names{
+	width: 400px;
+	color: #888;
+  font-size: 1.1em;
+  margin: auto;
+  font-family: 'Source Sans Pro', sans-serif;
+/*    outline: red 1px solid ;
+*/}
+
+.name{
+	color: white;
+}
+
+#ub-logo{
+	margin: 0 auto;
+	width:50px;
+/*	outline: blue 1px solid;
+*/}
+#logo-ub-img{
+	height: 20px;
+	width:20px;
+}
+
+.warning{
+	background-color : #AAA;
+}
