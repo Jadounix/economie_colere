@@ -19,7 +19,9 @@
 			<p>·</p>
 			<a href="P3.php">III - Colère et négociation</a>
 			<p>·</p>
-			<a href="P4.php">Le jeu de l'ultimatum</a>
+			<a href="P4.php">IV - Le jeu de l'ultimatum</a>
+			<p>·</p>
+			<a href="bibliographie.php">Bibliographie</a>
 		</div>
 	</header>
 	<div class="background">
