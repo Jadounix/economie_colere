@@ -5,7 +5,12 @@
     <!-- Javascript s'en occuppe. . .  -->
   </aside>
   <main class="post-content">
+
+    <h1>Colère, négociation et prise de décision</h1>
+
+    <p>Dans cette partie, nous allons régulièrement faire référence au jeu de l’ultimatum. Pour plus de clarté, vous pouvez d’abord jouer au jeu <a href="P4.php">ici</a>, et consulter les explications du jeu au bas de cette page.</p>
     <p>Dans cette partie nous allons nous intéresser plus en détail à la colère et ses conséquences en économie.</p>
+
     <h2>Principe de rationalité et influence des émotions</h2>
     <h3>Les différentes rationalités et les émotions</h3>
     <p>En Économie, une des hypothèse principale qui vise à expliquer le comportement des individus en économie est celle des “préférences égoïstes”. Dans ce principe, l’individu se préoccupe uniquement de son propre niveau de bien être et de ses

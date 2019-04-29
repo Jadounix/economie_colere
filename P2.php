@@ -6,7 +6,7 @@
   </aside>
   <main class="post-content">
     <h1>Les caractéristiques de la colère</h1>
-    <p>Dans cette partie, nous allons régulièrement faire référence au jeu de l’ultimatum. Pour plus de clarté, vous pouvez d’abord jouer au jeu ici, puis consulter les explications du jeu là.</p>
+    <p>Dans cette partie, nous allons régulièrement faire référence au jeu de l’ultimatum. Pour plus de clarté, vous pouvez d’abord jouer au jeu <a href="P4.php">ici</a>, puis consulter les explications du jeu <a href="P3.php">là</a>.</p>
 
     <h2>Les composantes de la colère</h2>
     <p>Il existe de très nombreuses définitions des émotions et une façon de s'y repérer est d'en donner les caractéristiques principales.
