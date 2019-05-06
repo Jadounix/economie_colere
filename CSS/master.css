@@ -32,6 +32,12 @@ footer{
 	/* display: flex; */
 }
 
+footer a{
+  text-decoration: none;
+}
+footer a:hover{
+  text-decoration: underline;
+}
 
 /*--------------------TRUC EN HAUT-------------------*/
 
@@ -93,6 +99,7 @@ footer{
   position: fixed;
 	top:0;
   z-index: 5;
+  width:100%;
 }
 
 /*------------------------ CONTENU -----------------------------*/
@@ -250,10 +257,11 @@ a.toc-already-read {
   width: 40%;
   background:#420303;
   padding: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .fichiers h1{
-  font-family: 'Source Sans Pro', sans-serif;
+
   color:white;
   padding-bottom: 10px;
 }
@@ -261,6 +269,10 @@ a.toc-already-read {
 .fichiers a{
   color:#d8d8d8;
   text-decoration: none;
+}
+
+.fichiers a:hover{
+  text-decoration: underline;
 }
 
 .fichiers li{

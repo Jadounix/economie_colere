@@ -52,10 +52,15 @@
     </p>
   </main>
   <aside class="fichiers">
-    <h1>Fichiers</h1>
+    <h1>Ressources</h1>
     <ul>
-      <li><a href="JS/jeu_ultimatum.js">Code du jeu de l'ultimatum </a></li>
-      <li><a href="https://repl.it/@tibokoi/v2-traitement-donnees-ter">Code pour l'analyse des résultats</a></li>
+      <li><a href="JS/jeu_ultimatum.js" target="_blank">Code du jeu de l'ultimatum </a></li>
+      <li><a href="scores.txt" target="_blank">Résultats bruts</a></li>
+      <li><a href="https://repl.it/@tibokoi/v2-traitement-donnees-ter" target="_blank">Code pour l'analyse des résultats</a></li>
+    </ul>
+    <br>
+    <ul>
+      <li><a href="https://github.com/psawa/economie_colere" target="_blank">Code du site (Open source)</a></li>
     </ul>
   </aside>
 </div>
