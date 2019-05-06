@@ -21,7 +21,7 @@
 			<p>·</p>
 			<a href="P4.php">IV - Le jeu de l'ultimatum</a>
 			<p>·</p>
-			<a href="bibliographie.php">Bibliographie</a>
+			<a href="annexes.php">Annexes</a>
 		</div>
 	</header>
 	<div class="background">

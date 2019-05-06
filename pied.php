@@ -2,7 +2,8 @@
 	<footer>
 		<div id="names">
 			<p>Created from scratch by <span class="name">Thibo Rosemplatt</span> & <span class="name">Jade Petit</span></p>
-			<br>
+		</div>
+		<div id="merci">
 			<p>Merci à notre professeur <span class="name">M. Emmanuel PETIT</span> qui a encadré la réalisation de ce TER.</p>
 		</div>
 	</footer>
