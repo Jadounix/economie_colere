@@ -43,7 +43,7 @@ if (isset($_GET['emotions'])&&isset($_GET['answers'])&&isset($_GET['receives'])&
   //
   $filename = 'scores.txt';
   $content = $_GET['receives'].'/'.$_GET['answers'].'/'.$_GET['emotions'].'/'.$_GET['offer'].'/'.$_GET['why'];
-  file_put_contents($filename, utf8_encode($ontent).PHP_EOL, FILE_APPEND);
+  file_put_contents($filename, utf8_encode($content).PHP_EOL, FILE_APPEND);
 }
 else {
   echo 'Problème de données ';
