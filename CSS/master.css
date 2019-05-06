@@ -318,6 +318,15 @@ main p{
 main ul, main ol{
 	padding-left: 40px;
 }
+
+main a{
+  background-color: #a1f4b0;
+  color: black;
+  text-decoration: none;
+}
+main a:hover{
+  text-decoration: underline;
+}
 /*-------------------------ABSTRACT--------------------------*/
 .paper-stack {
 	line-height: 1.5;
