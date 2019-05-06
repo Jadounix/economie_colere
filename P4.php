@@ -102,7 +102,7 @@
 		</p>
 
 		<h3>Conclusion</h3>
-		<p>La non cohérence des résultats avec notre hypothèse peut aussi être expliqué par les défauts du protocole. Par exemple, il est plus aisé pour les participants de faire des offres hautes puisque la monnaie est fictive. Du fait que les
+		<p>La non cohérence des résultats avec notre hypothèse peut aussi être expliqué par les limites du protocole. Par exemple, il est plus aisé pour les participants de faire des offres hautes puisque la monnaie est fictive. Du fait que les
 			participants jouent à un jeu et ne soient pas dans une réelle situation peut fausser les résultats. </p>
 		<p>De plus les animations du jeu ont pu induire des émotions aux joueurs testés. En effet plusieurs participants nous ont dit que, de voir le personnage virtuel avec qui ils traitent “pleurer” lorsqu’ils refusaient son offre, leur donnait de
 			l’empathie pour ce personnage virtuel.</p>
