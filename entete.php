@@ -13,15 +13,15 @@
 			<a href="index.php" class="title">L'économie de la colère</a>
 		</div>
 		<div class="menu">
-			<a href="p1.php">I - Introduction</a>
+			<p><a href="p1.php">I - Introduction</a></p>
 			<p>·</p>
-			<a href="P2.php">II - La colère</a>
+			<p><a href="P2.php">II - La colère</a></p>
 			<p>·</p>
-			<a href="P3.php">III - Colère et négociation</a>
+			<p><a href="P3.php">III - Colère et négociation</a></p>
 			<p>·</p>
-			<a href="P4.php">IV - Le jeu de l'ultimatum</a>
+			<p><a href="P4.php">IV - Le jeu de l'ultimatum</a></p>
 			<p>·</p>
-			<a href="annexes.php">Annexes</a>
+			<p><a href="annexes.php">Annexes</a></p>
 		</div>
 	</header>
 	<div class="background">
