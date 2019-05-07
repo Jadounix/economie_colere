@@ -16,8 +16,7 @@
 
 <div class='paper-stack'>
   <h2>RÉSUMÉ</h2>
-  <p>Les émotions d’un individu peuvent affecter son comportement économique plus que vous ne le pensez. Des études antérieures ont en effet révélé que la consommation ou la négociation sont conduites par les affects. Dans le cadre de ce TER, nous
-    nous sommes concentré particulièrement sur la colère. En cette période de mouvement du gilet jaune, il est impératif de comprendre comment la colère et le comportement économique sont liés.</p>
+  <p>Vos émotions pourraient affecter votre comportement économique plus que vous ne le pensez. Des études antérieures ont en effet révélé que la consommation ou la négociation sont conduites par les affects. Dans le cadre de ce TER, nous nous sommes concentré particulièrement sur la colère. En cette période de mouvement des gilets jaunes, il est impératif de comprendre comment la colère et le comportement économique sont liés.</p>
 
   <p>À cette fin, nous avons d'abord procédé à une revue de la littérature. Puis nous avons réalisé une expérience, en reproduisant "le jeu de l'ultimatum" sur le site web de ce TER.
     Ce jeu traite des négociations implicites entre deux personnes, et des décisions “à prendre ou à laisser”. Notre but était de prouver que la plupart des participants jouaient avec un comportement rationnel. Pour ce faire, nous avons établi et
