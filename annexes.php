@@ -60,7 +60,7 @@
     </ul>
     <br>
     <ul>
-      <li><a href="https://github.com/psawa/economie_colere" target="_blank">Code du site (Open source)</a></li>
+      <li><a href="https://github.com/psawa/economie_colere" target="_blank">Code du site</a></li>
     </ul>
   </aside>
 </div>

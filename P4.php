@@ -82,10 +82,12 @@
 		<h3>Hypothèse 1</h3>
 		<p>68 personnes, principalements des étudiants L3 MIASHS, ont participé à notre expérience sur le jeu de l’ultimatum.</p>
 		<p>Notre première hypothèse était que le joueur testé proposera une offre égale à son propre seuil d'acceptation. <br>Pour vérifier cette hypothèse nous avons d’abord du trier le participants qui ont effectivement présenté un seuil. En effet, certains joueurs n'en ont pas présenté. Par exemple, des joueurs ont accepté l’offre à 2€ mais pas celle  à 3€. Ce comportement semble irrationnel, mais en lisant les explications fournies par les joueurs en fin de partie, on comprends qu'il s'agit d'erreurs liées à la compréhension du jeu. Ces joueurs-ci
-		n’ont pas été comptés. Au total, 57 personnes ont donc été identifiées comme présentant un seuil d’acceptation, soit 85% de l’échantillon de joueur total. <br> Parmi eux, Le seuil moyen d'acceptation
+		n’ont pas été comptés.</p><p>Au total, 57 personnes ont donc été identifiées comme présentant un seuil d’acceptation, soit 85% de l’échantillon de joueur total. <br> <img src="images/P4/thresholds_plot.png" class="chart" alt="Graphique montrant la répartition des seuils"> <br> Parmi eux, Le seuil moyen d'acceptation
 		est de 3,21€. </p>
 
-		<p>13 participant, soit 22% des joueurs ont fait une offre égale à leur seuil, comme attendu dans l’hypothèse 1. On peut alors dire que notre première hypothèse n’est pas vérifiée.</p>
+		<p>13 participant, soit 22% des joueurs ont fait une offre égale à leur seuil, comme attendu dans l’hypothèse 1. On peut alors dire que notre première hypothèse n’est pas vérifiée. <br>
+		<img src="images/P4/offers_pie.png" class="chart" alt=""> </p>
+
 
 		<p>Cette première hypothèse suppose une forte rationalité des participants. Il n'est donc pas anormal de constater que cette supposition est érronnée, puisqu’on a vu que les émotions peuvent ébranler un comportement rationnel. <br> De plus, près de la moitié des joueurs testés ont fait une offre de 5€, en expliquant qu’ils voulaient être équitables dans le partage de l’argent. On pourrait y voir une portée éducative de la colère ressentie, mais notre protocole ne nous permet pas de tester cette hypothèse.<br>La prédominance de ce comportement (offres à 5€), que nous n’avions pas envisagée au départ, explique peut-être pourquoi peu de réponses lors du jeu vont dans le sens de notre hypothèse.</p>
 		<h3>Hypothèse 2</h3>

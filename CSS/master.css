@@ -47,7 +47,7 @@ footer a:hover{
 	display: block;
 	padding-left: 40px;
 	background-color: black;
-	width: 100vw;
+	/* width: 100%; */
 
 }
 
@@ -109,6 +109,8 @@ footer a:hover{
 	background-color: #EEE;
 	padding: 20px;
 	min-height: 400px;
+  width: auto;
+  /* overflow-x: scroll; */
 }
 
 /*------------------------ FEUILLE -----------------------------*/
@@ -407,4 +409,11 @@ main a:hover{
 
 .warning{
 	background-color : #AAA;
+}
+
+.chart{
+  width: 800px;
+  height: 360px;
+  margin: auto;
+  display: block;
 }
