@@ -67,12 +67,12 @@
 		</ul>
 		<h2>Hypothèses</h2>
 		<p>Nos deux hypothèses reposent sur le principe de rationnalité ( <a href="p1.php">Voir introduction</a> ).</p>
-		<h3>Première hypothèse </h3>
+		<h3>Hypothèse 1</h3>
 		<p>Notre première hypothèse est que le joueur présentera un seuil de resistance, et que quand viendra son tour de proposer une offre, celle ci sera égale au seuil. <br>
 			Ce seuil correspond à la somme d'argent en dessous de laquelle le joueur refusera toute proposition, et au dessus de laquelle il les accepteras toutes.<br> Cette hypothèse correspond à un comportement rationnel de la part du joueur, qui veut éviter un refus de la part du répondant afin de maximiser ses gains. Le joueur n’ayant pas connaissance du comportement de son partenaire, le présuppose comme étant identique au sien. <br> Si, par exemple, le joueur refuse en tant que receveur une offre à partir de trois euros, il est probable qu'il en offrira quatre en tant qu'offreur. En effet, lorsque j'ai peu d'informations sur le comportement des autres, la manière la plus logique et raisonnable pour anticiper ce que vont faire les autres, c'est de supposer qu'ils feront comme je le ferais
 			si j'étais à leur place. C’est un comportement rationnel optimisateur.
 		</p><br/>
-		<h3>Seconde hypothèse</h3>
+		<h3>Hypothèse 2</h3>
 		<p>
 			Notre seconde hypothèse concerne l’impact de la valence émotionnelle sur le comportement. Lorsque le sujet passe le seuil de résistance, c’est à dire lors de la première offre refusée, il devrait passer d’une émotion à valence positive à une
 			émotion à valence négative. C’est pour vérifier cette hypothèse que nous demandons au joueur testé quelles sont les émotions qu’il a ressenti à chaque proposition du personnage virtuel.
@@ -103,7 +103,7 @@
 			On peut supposer que ce comportement s’explique en partie par l’envie de donner une image positive de soi.
 		</p>
 
-		<h3>Conclusion</h3>
+		<h2>Conclusion</h2>
 		<p>La non cohérence des résultats avec notre hypothèse peut aussi être expliqué par les limites du protocole. Par exemple, il est plus aisé pour les participants de faire des offres hautes puisque la monnaie est fictive. Du fait que les
 			participants jouent à un jeu et ne soient pas dans une réelle situation peut fausser les résultats. </p>
 		<p>De plus, les animations du jeu ont pu induire des émotions aux joueurs testés. En effet plusieurs participants nous ont indiqué que voir le personnage virtuel avec qui ils jouent “pleurer” lorsqu’ils refusaient son offre, leur procurait de l’empathie pour ce personnage virtuel.
