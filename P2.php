@@ -14,7 +14,7 @@
       Après avoir défini ce qu’était la colère, nous allons décrire quelques unes de ces caractéristiques dans ce paragraphe,
       et voir en quoi la colère est bien représentée par ces différentes caractéristiques.</p>
 
-    <h3>1) Définition de la colère</h3>
+    <h3>Définition de la colère</h3>
     <p>Il existe deux importantes théories qui définissent la colère. Celle de Berkowitz et celle de d’Averill. Ces deux théories datent des années 1980-1990.
       <br />Berkowitz défend le fait que le sentiment de colère se fait selon les interprétations personnelles de l’individu, en fonction de son vécu, de ses pensées. La réponse émotionnelle, déclenchée par une provocation, s’effectue par le biais
       d’un
@@ -28,7 +28,7 @@
       <br />Des réponses cognitives agressives, avec des cris par exemple, peuvent avoir lieu, mais l'individu en colère peut également vouloir mettre en place des stratégies visant à baisser son niveau de colère par la relaxation [7].
     </p>
 
-    <h3>2) Conséquences de la colère</h3>
+    <h3>Conséquences de la colère</h3>
     <p>La colère peut avoir un impact négatif sur la santé. On sait qu’elle affecte par exemple l'hypertension artérielle. Elle est également un symptôme de nombreux troubles psychologiques ou psychiatriques, souvent liée à une peur anormale (par
       exemple dans le cas de la schizophrénie).
       <br>La colère peut empêcher certains processus cognitifs, comme l'exécution de tâches ou la prise de décision, en perturbant la concentration.
@@ -37,9 +37,9 @@
       La colère peut également être un générateur de motivation, et de confiance en soi lors d’une négociation par exemple.
       De plus, la colère participe au sentiment d’indignation morale : elle permet ainsi de poser des actions pour réduire les injustices [7].</p>
 
-    <h3>3) Une approche multi componentielle des émotions</h3>
+    <h3>Une approche multi componentielle des émotions</h3>
 
-    <h4>a - Les émotions se définissent par une valence et un niveau d’activation</h4>
+    <h4>Les émotions se définissent par une valence et un niveau d’activation</h4>
     <p>Une émotion peut être définie par une valence et un niveau d’activation. La valence est soit positive, soit négative, c’est par exemple le cas dans le couple joie/tristesse. C’est une mesure bipolaire qui permet de définir le niveau de plaisir
       ou de déplaisir de l’émotion en question [18]. Le niveau d’activation permet de rendre compte de l’intensité de l’émotion en question. Par exemple on aura un niveau d’activation fort dans le cas d’une émotion comme la colère [18], ou la
       tristesse. Des émotions comme le contentement ou l’ennui auront en revanche des niveau d'activation plutôt faible.</p>
@@ -59,13 +59,13 @@
       négative à fort niveau d’activation.
     </p>
 
-    <h4>b - Les émotions ont pour point commun une tendance à l’action</h4>
+    <h4>Les émotions ont pour point commun une tendance à l’action</h4>
     <p>D’après Frijda (1986) l’émotion crée un état de préparation à une action spécifique. L’individu va chercher des moyens de répondre à la situation. Cela peut être de la fuite ou de l’agressivité dans le cas de la colère par exemple, ou de la
       dissimulation dans le cas de la honte. Ces réactions peuvent êtres inhibées par le contrôle de ses émotions.
       <br> Par exemple, dans le jeu de l'ultimatum, le contrôle de la colère peut avoir des vertus car il permet d'accepter une offre inéquitable. Cela peut être une stratégie dans le cas d’une négociation.
     </p>
 
-    <h4>c - Les émotions se caractérisent par des changements physiologiques et mentaux</h4>
+    <h4>Les émotions se caractérisent par des changements physiologiques et mentaux</h4>
     <p>Ces changements peuvent conduire à des modifications de comportement. On peut avoir simplement des modifications dans l’expression corporelle : crispation du visage etc.. [6].
       Mais on peut également avoir un changement plus global dans l’attitude. Si un individu est en proie à une émotion négative par exemple, il aura pour objectif de réduire le sentiment désagréable provoqué par cette émotion. Dans la cas de la
       colère, un individu peut adopter un comportement punitif vis à vis d’un autre, afin de diminuer sa colère. En effet, la punition correspondrait à une zone de plaisir dans le cerveau, le striatum dorsal, qui participe au de récompense [21]. Dans
@@ -73,7 +73,7 @@
       d’activation de cette émotion.
     </p>
 
-    <h4>d - La croyance est ce qui différencie les émotions d’un besoin</h4>
+    <h4>La croyance est ce qui différencie les émotions d’un besoin</h4>
     <p>Les croyance ne sont pas causées uniquement par des perceptions physiologiques, mais aussi des anticipations ou interprétations de ses ressentis.
       <br />Selon Berkowitz et Averill on peut classer les causes de la colère en trois catégories [7] :
       <ul>
@@ -87,14 +87,14 @@
       envisager l’agression.
     </p>
 
-    <h4>e - Contrôle et régulation des émotions</h4>
+    <h4>Contrôle et régulation des émotions</h4>
     <p>Génération et contrôle de l’émotion peuvent être vus comme deux processus distincts ou non.
       Dans tous les cas la régulation des émotions peut venir à n’importe quel stade de l’émotion. Elle peut-être automatique, par exemple le niveau d’activation de l’émotion baisse avec le temps, ou être contrôlée.
       <br />Plusieurs types d’actions peuvent permettre la diminution de la colère. On peut avoir des actions qui cherchent à créer un rapprochement, avec davantage de communication, et des actions qui cherchent à créer la distance. La distance vise
       à éloigner les stimulis irritants [7].
     </p>
 
-    <h3>4) Les circuits neuronaux impliqués</h3>
+    <h3>Les circuits neuronaux impliqués</h3>
     <p>Pour observer les circuits neuronaux de la colère, il a fallu définir le comportement le plus représentatif de la colère. C’est généralement l’impulsivité, ou le comportement agressif qui ont été choisis.
       <br />Dans une étude sur les circuits neurobiologiques de l’agression, Jaak Panksepp et Margaret R. Zellner ont pu identifier que la réponse agressive était corrélée à l’activation de l'amygdale corticomédiale, de l'hypothalamus interne et de
       la région dorsolatérale du gris du périencéphale mésencéphale [10].</p>
@@ -116,11 +116,11 @@
     <h2>Méthodes d’induction de la colère</h2>
     <p>Les émotions induites en laboratoire doivent être les plus proches possible d’émotions ressenties naturellement au quotidien. Pour cela il existe différentes méthodes.</p>
 
-    <h3>1) Rappel de souvenirs</h3>
+    <h3>Rappel de souvenirs</h3>
     <p>La méthode de rappel des souvenirs à été mise en place par Track, Schwarz et Gschneidner en 1985. Elle consiste pour le sujet à écrire trois épisodes de sa vie durant lequel il a ressenti une émotion particulière, comme la colère. Il doit
       ensuite détailler l’épisode qui lui fait ressentir l’émotion de façon la plus intense. [19]</p>
 
-    <h3>2) Visionnage de film</h3>
+    <h3>Visionnage de film</h3>
     <p>Une séquence vidéo est également un moyen d'induire des émotions. Elle permet de plonger le sujet de l’expérience dans un contexte plus dynamique et stimulant. [19]
       Une liste de films induisant différentes émotions a été créée par Schaefer, Nils, Sanchez et Philippot. Pour la colère on retrouve par exemple les films suivants : Le pianiste (2001), ou American Horror Story X (1998).
       <br />Une autre séquence vidéo utilisé pour provoquer des émotions négative comme le colère ou l’indignation est celle de l’expérience de Milgram, du psychologue américain Stanley Milgram (1960).
@@ -138,11 +138,11 @@
     <h2>Méthodes de mesure de la colère</h2>
     <p>Il existe différentes méthodes permettant de mesurer l’intensité des émotions, ou de déterminer quelle émotion est exprimée par un individu.</p>
 
-    <h3>1) Imagerie cérébrale</h3>
+    <h3>Imagerie cérébrale</h3>
     <p>L’imagerie cérébrale est un ensemble de techniques permettant d’observer le cerveau. L'imagerie par résonance magnétique fonctionnelle (IRMf) consiste par exemple le taux d’oxygénation dans une zone cerveau afin de rendre compte de son activation. Plus la zone est oxygénée, plus elle est activée. On utilise également la méthodes des potentiels évoqués (ERP). Pour cela on utilise les modifications des potentiels électriques du cerveau, qu’on enregistre grâce à des techniques comme l'électroencéphalographie. </p>
     <p>L’imagerie cérébrale permet donc d’observer les zones qui s’activent lors qu’une émotion comme la colère est induite chez le sujet. </p>
 
-    <h3>2) Autoévaluation des individus ou composante cognitive</h3>
+    <h3>Autoévaluation des individus ou composante cognitive</h3>
     <p>L’évaluation des émotions peut se faire sous la forme de questionnaires où de questions, ou les sujets s’auto évaluent. On peut par exemple leur demander quelle émotion ils ont ressenti au cours d’une expérience, en leur faisant choisir parmi une liste d’émotions. On peut également leur demander le niveau d’intensité de l’émotion qu’ils ont ressentie. Généralement ces mesures se font sous forme de questionnaire, avec des échelles certifiées. On peut citer par exemple la Differential  Emotions  Scale  (DES) (Izard, 1977; traduction  française, Ouss, Carton, Jouvent, et Widlöcher, 1990).
     <br/>C’est cette évaluation de la colère que nous avons utilisée dans notre travail exploratoire. Les personnes jouant au jeu de l’ultimatum que nous avons codé doivent ensuite cocher les émotions qu’elles ont ressenties parmi une liste que nous leur avons proposée.
     </p>
@@ -151,13 +151,13 @@
     <br/>Il y a également un problème de subjectivité : tous les individus ne sont pas égaux dans l’analyse de leurs émotions. Il peut être difficile par exemple de distinguer la colère du mépris ou de l’indignation. Néanmoins cette méthode est utilisée car elle reste peu coûteuse et plutôt efficace.
     </p>
 
-    <h3>3) Mesures des expressions corporelles</h3>
+    <h3>Mesures des expressions corporelles</h3>
     <p>L'être humain a une importante capacité à reconnaître des émotions sur le visage d’autres individus. C’est pourquoi la mesure des expressions corporelles et notamment faciales est utilisée en laboratoire pour discriminer des émotions. L’idée serait qu’il existe un “ patron musculaire spécifique et caractéristique” correspondant à chaque émotion [19].</p>
     <p>Un exemple de mesure faciale des émotions est l’électromyographie. Elle consiste en la mesure de l’activité électrique des muscles du visage, afin de connaître leur activité musculaire. Cette activité est enregistrée grâce à des électrodes placées sur le visage du sujet [19].
     <br/>Cette méthode comporte quelques limites car il est possible chez l’être humain de contrôler l’expression de ses émotions. De plus elle ne prend pas en compte d’autres paramètres, comme l'intensité de la voix, qui par exemple augmente en situation de colère.
     </p>
 
-    <h3>4) Mesures physiologiques</h3>
+    <h3>Mesures physiologiques</h3>
     <p>D’autres types de mesures peuvent êtres faites pour mesurer les émotions. On peut citer la mesure de la pression sanguine, la réponse électrodermale, la température corporelle, la dilatation des pupilles ou encore la mesure du volume respiratoire.</p>
     <p>Dans le cas de la colère, la mesure de la fréquence cardiaque peut être intéressante. Par exemple elle permet de différencier des émotions proches comme le dégoût ou la colère, la colère provoquant une fréquence cardiaque plus élevée [19]. Pour cela, on mesure les variations électriques issues des contractions cardiaques. Ces variations sont ensuite observables grâce à un électrocardiogramme.</p>
 
