@@ -82,14 +82,19 @@
 		<h3>Hypothèse 1</h3>
 		<p>68 personnes, principalements des étudiants L3 MIASHS, ont participé à notre expérience sur le jeu de l’ultimatum.</p>
 		<p>Notre première hypothèse était que le joueur testé proposera une offre égale à son propre seuil d'acceptation. <br>Pour vérifier cette hypothèse nous avons d’abord du trier le participants qui ont effectivement présenté un seuil. En effet, certains joueurs n'en ont pas présenté. Par exemple, des joueurs ont accepté l’offre à 2€ mais pas celle  à 3€. Ce comportement semble irrationnel, mais en lisant les explications fournies par les joueurs en fin de partie, on comprends qu'il s'agit d'erreurs liées à la compréhension du jeu. Ces joueurs-ci
-		n’ont pas été comptés.</p><p>Au total, 57 personnes ont donc été identifiées comme présentant un seuil d’acceptation, soit 85% de l’échantillon de joueur total. <br> <img src="images/P4/thresholds_plot.png" class="chart" alt="Graphique montrant la répartition des seuils"> <br> Parmi eux, Le seuil moyen d'acceptation
+		n’ont pas été comptés.</p><p>Au total, 57 personnes ont donc été identifiées comme présentant un seuil d’acceptation, soit 85% de l’échantillon de joueur total. Tous les résultats qui vont suivre concernant l'hypothèse 1 reposeront sur cet échantillon.</p>
+			<img src="images/P4/hasThreshold_ratio.png" class="chart" alt="">
+
+		<p>Parmi eux, Le seuil moyen d'acceptation
 		est de 3,21€. </p>
 
-		<p>13 participant, soit 22% des joueurs ont fait une offre égale à leur seuil, comme attendu dans l’hypothèse 1. On peut alors dire que notre première hypothèse n’est pas vérifiée. <br>
-		<img src="images/P4/offers_pie.png" class="chart" alt=""> </p>
+		<img src="images/P4/thresholds_offers_whisker_plot.png" alt="Graphique montrant la répartition des seuils" class="chart">
+
+		<p>13 participant, soit 22% des joueurs ont fait une offre égale à leur seuil, comme attendu dans l’hypothèse 1. On peut alors dire que notre première hypothèse n’est pas vérifiée. <br></p>
+		<img src="images/P4/offers_pie.png" class="chart" alt="">
 
 
-		<p>Cette première hypothèse suppose une forte rationalité des participants. Il n'est donc pas anormal de constater que cette supposition est érronnée, puisqu’on a vu que les émotions peuvent ébranler un comportement rationnel. <br> De plus, près de la moitié des joueurs testés ont fait une offre de 5€, en expliquant qu’ils voulaient être équitables dans le partage de l’argent. <br> <img src="images/P4/thresholds_offers_bars.png" alt=""> <br> On pourrait y voir une portée éducative de la colère ressentie, mais notre protocole ne nous permet pas de tester cette hypothèse.<br>La prédominance de ce comportement (offres à 5€), que nous n’avions pas envisagée au départ, explique peut-être pourquoi peu de réponses lors du jeu vont dans le sens de notre hypothèse.</p>
+		<p>Cette première hypothèse suppose une forte rationalité des participants. Il n'est donc pas anormal de constater que cette supposition est érronnée, puisqu’on a vu que les émotions peuvent ébranler un comportement rationnel. <br> De plus, près de la moitié des joueurs testés ont fait une offre de 5€, en expliquant qu’ils voulaient être équitables dans le partage de l’argent.</p> <img class="chart" src="images/P4/thresholds_offers_bars.png" alt=""> <p>La prédominance de ce comportement (offres à 5€), que nous n’avions pas envisagée au départ, explique peut-être pourquoi peu de réponses lors du jeu vont dans le sens de notre hypothèse. <a href="#offres-5-euros">(Nous allons en re-parler)</a> </p>
 		<h3>Hypothèse 2</h3>
 		<p>Notre seconde hypothèse stipulait qu'un refus de la part du receveur était corrélée uniquement avec des émotions négatives, et une acceptation, uniquement avec des émotions positives.
 		<br> Les résultats montrent que 22 participants, soit 33% de la population totale testée, adoptent effectivement ce comportement. Cette hypothèse est donc également réfutée car ce comportement est suivi par seulement un tiers des participants.</p>
@@ -100,10 +105,13 @@
 
 		<h3>Autres résultats</h3>
 
-		<p>49 % des joueurs testés ont fait une offre de 5€. Dans les commentaires que les participants ont écrits pour expliquer cette offre, on retrouve à chaque fois que le joueur testé a voulu être “juste” ou “équitable” avec un partage
+		<p id="offres-5-euros">49 % des joueurs testés ont fait une offre de 5€.</p>
+		<img src="images/P4/offers_repartition.png" alt="Graphique montrant la répartition des seuils" class="chart">
+		<p>Dans les commentaires que les participants ont écrits pour expliquer cette offre, on retrouve à chaque fois que le joueur testé a voulu être “juste” ou “équitable” avec un partage
 			égal. On peut faire le lien avec le résultat précédent. L’induction de la colère peut donner aux personnes une envie de justice qui les pousse à adopter ce comportement “juste”.
 			On peut supposer que ce comportement s’explique en partie par l’envie de donner une image positive de soi.
 		</p>
+		<p>On Également pourrait y voir une portée éducative de la colère ressentie, mais notre protocole ne nous permet pas de tester cette hypothèse.</p>
 
 		<h2>Conclusion</h2>
 		<p>La non cohérence des résultats avec notre hypothèse peut aussi être expliqué par les limites du protocole. Par exemple, il est plus aisé pour les participants de faire des offres hautes puisque la monnaie est fictive. Du fait que les
