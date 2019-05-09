@@ -10,6 +10,7 @@
 			<p>thibo &ltdot&gt rosemplatt &ltat&gt gmail.com</p>
 			<p>jademariepetit &ltat&gt gmail.com </p>
 		</div>
+		<img src="images/favicon.ico" alt="logo ub" id="ub-logo">
 	</footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 	<script src="JS/sticky.js"></script>
