@@ -21,6 +21,7 @@
   <p>Les résultats réfutent nos deux hypothèses. Le comportement des participants était moins rationnel que prévu, mais les résultats restent néanmoins intéressants car ils apportent de nouveaux éléments, permettant de nuancer la compréhension du jeu.
   Les limites de l'expérience, provenant principalement de sa modélisation sous forme d'un jeu vidéo, ont également été impliquées dans la non-validation de nos hypothèses.
   </p>
+  <br>
   <p>*Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales.</p>
 
 </div>
