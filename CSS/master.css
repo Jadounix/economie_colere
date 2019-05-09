@@ -315,7 +315,9 @@ main p{
 	margin-bottom: 18px;
 	line-height: 1.5;
 	text-align: justify;
+  text-align-last: left;
 	font-family: "Times New Roman";
+
 }
 main ul, main ol{
 	padding-left: 40px;
@@ -378,9 +380,11 @@ main a:hover{
 	width: 400px;
 	color: #888;
   font-size: 1.1em;
-  margin: 15px auto 50px;
+  margin: 15px auto;
+  padding-bottom: 20px;
   font-family: 'Source Sans Pro', sans-serif;
   text-align: center;
+  border-bottom: 1px solid #888;
 /*    outline: red 1px solid ;
 */}
 
@@ -388,11 +392,19 @@ main a:hover{
 	width: 800px;
 	color: #888;
   font-size: 1.1em;
-  margin: 15px auto ;
+  margin: 15px auto 50px ;
   font-family: 'Source Sans Pro', sans-serif;
   text-align: center;
 /*    outline: red 1px solid ;
 */}
+
+#emails{
+  width: 800px;
+	color: #888;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  margin: 10px auto;
+}
 .name{
 	color: white;
 }
