@@ -1,10 +1,14 @@
 	</div>
 	<footer>
+		<div id="merci">
+			<p>Merci à notre professeur <a class="name" href="https://gretha.u-bordeaux.fr/Le-GREThA/Membres/Enseignants-chercheurs/Petit-Emmanuel" target="_blank">M. Emmanuel PETIT</a> qui a encadré la réalisation de ce TER.</p>
+		</div>
 		<div id="names">
 			<p>Created from scratch by <span class="name">Thibo Rosemplatt</span> & <span class="name">Jade Petit</span></p>
 		</div>
-		<div id="merci">
-			<p>Merci à notre professeur <a class="name" href="https://gretha.u-bordeaux.fr/Le-GREThA/Membres/Enseignants-chercheurs/Petit-Emmanuel" target="_blank">M. Emmanuel PETIT</a> qui a encadré la réalisation de ce TER.</p>
+		<div id="emails">
+			<p>thibo &ltdot&gt rosemplatt &ltat&gt gmail.com</p>
+			<p>jademariepetit &ltat&gt gmail.com </p>
 		</div>
 	</footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
