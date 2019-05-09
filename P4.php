@@ -53,7 +53,7 @@
 		</div>
 		<h1>Travail expérimental réalisé</h1>
 		<h2>Protocole</h2>
-		<p>Le jeu se déroule en 6 tours. Un personnage virtuel fait d’abord 5 offres aléatoires différentes au joueur testé, allant de 1 à 5 euros. Ces 5 propositions sont faites par le même personnage, afin d'écarter toute possibilité que différents personnages évoquent différentes émotions. <br> A chaque fin de tour, une liste d’émotions est proposée au joueur testé. Il doit indiquer quelle(s) émotion(s) ont se sont le plus rapprochées de ce que l'offre lui a fait resentir. Lors du sixième et dernier tour, c'est au tour du joueur testé de faire une unique offre finale. Il est ensuite invité à répondre à la question suivante : “Pouvez vous expliquer cette offre de x€ ?”</p>
+		<p>Le jeu se déroule en 6 tours. Un personnage virtuel fait d’abord 5 offres au participant, allant de 1 à 5 euros, apparaissant dans un ordre aléatoire. Ces 5 propositions sont faites par le même personnage, afin d'écarter toute possibilité que différents personnages évoquent différentes émotions. <br> A chaque fin de tour, une liste d’émotions est proposée au joueur testé. Il doit indiquer quelle(s) émotion(s) ont se sont le plus rapprochées de ce que l'offre lui a fait resentir. Lors du sixième et dernier tour, c'est au tour du joueur testé de faire une unique offre finale. Il est ensuite invité à répondre à la question suivante : “Pouvez vous expliquer cette offre de x€ ?”</p>
 		<p>Liste des émotions proposées :</p>
 		<ul>
 			<li>colère</li>
