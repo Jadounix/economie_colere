@@ -410,14 +410,11 @@ main a:hover{
 }
 
 #ub-logo{
-	margin: 0 auto;
-	width:50px;
+	margin: 20px auto 10px;
+  display: block;
 /*	outline: blue 1px solid;
 */}
-#logo-ub-img{
-	height: 20px;
-	width:20px;
-}
+
 
 .warning{
 	background-color : #AAA;
