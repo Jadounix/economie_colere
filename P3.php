@@ -27,12 +27,12 @@
       de décision ?</h3>
     <p>La raison, et donc le fait de prendre des décisions, est souvent opposée aux émotions.
     <br>
-    Dans son livre L’erreur de Descartes (1995) [4], Damasio raconte comment sa rencontre avec un homme très peu émotif, mais qui ne parvenait pas à prendre des choix et possédait un “handicap dans l’aptitude à prendre des décisions”, lui a permis
+    Dans son livre <i>L’erreur de Descartes</i> (1995) [4], Damasio raconte comment sa rencontre avec un homme très peu émotif, mais qui ne parvenait pas à prendre des choix et possédait un “handicap dans l’aptitude à prendre des décisions”, lui a permis
       de repenser la relation entre émotion et raison. <br>
     Il en a conclu que la capacité d'exprimer et de ressentir des émotions fait partie intégrante de la faculté de raisonnement. La raison et l'émotion sont utiles au cours du processus de décision pour deux raisons que nous allons maintenant
       détailler. </p>
     <h4>Les émotions limitent le nombre de possibilité lors d’un choix</h4>
-    <p>Les émotions servent à résoudre un problème de choix. Elles permettent de limiter le nombre de paramètres à prendre en compte lors de ce choix, et de rester attentifs sur les éléments importants. Dans une situation de colère par exemple, où
+    <p>Les émotions servent à résoudre un problème de choix. Elles permettent de limiter le nombre de paramètres à prendre en compte lors de ce choix, et de rester attentifs aux les éléments importants. Dans une situation de colère par exemple, où
       les individus sont en général moins coopératifs, leur attention va se porter sur les réactions de l’autre individu.<br>
     Les émotions, et notamment le souvenirs d’émotions agréables ou pénibles, interviennent pour orienter notre choix. Par exemple le souvenir d’une émotion heureuse après avoir mangé une pâtisserie nous poussera à reprendre la même pâtisserie
       plus tard. Les émotions négatives ont également un autre intérêt, elles renseignent qu’il y a un problème, que quelque chose ne va pas. Elles permettent d’orienter notre choix face à ce problème. Une émotion de peur peut pousser à fuir, et donc
@@ -54,13 +54,13 @@
     <p>Lors d’une négociation, il est important de contrôler ses émotions, de ne pas trop les montrer, ou de ne pas se laisser influencer afin d’éviter tout comportement trop impulsif. Pour cela l’individu peut chercher à mettre à distance ses
       émotions afin de les cacher à l’autre. Le négociateur est censé prendre du recul par rapport à ses émotions et se montrer de façon la plus neutre possible.</p>
     <p>L’individu peut avoir intérêt à cacher des émotions comme la peur, car elles le mettent en situation de faiblesse. La colère et l’impulsivité qui en découle sont également des émotions que le négociateur peut vouloir cacher car elles sont
-      signe d’un manque de contrôle de soi, qui peut être vu comme une faiblesse.</p>
+      signe d’un manque de contrôle de soi.</p>
     <h3>Les émotions peuvent également être utilisées pour modifier le comportement de l’autre</h3>
-    <p>Si, dans le cadre du jeu de l’ultimatum par exemple, le joueur 2 qui doit recevoir l’offre est en colère, cela peut inciter le joueur 1 (celui qui fait l’offre) à se montrer plus coopératif. Il peut par exemple proposer une offre moins basse
+    <p>Si, dans le cadre du jeu de l’ultimatum par exemple, le joueur 2 qui doit recevoir l’offre, est en colère, cela peut inciter le joueur 1 (celui qui fait l’offre) à se montrer plus coopératif. Il peut par exemple proposer une offre moins basse
       que ce qu’il avait prévu pour éviter un refus de la part de l’autre joueur. Une réaction positive face à la colère permet de la désarmer.</p>
     <p>Mais ce n’est pas toujours l’offreur qui est en position de force par rapport au répondant. La réponse à une offre, lors d’une négociation, permet également de jouer avec les émotions de l’autre. </p>
-    <p>Dans son article Incertitude et intensité émotionnelle en situation de négociation, Dominique Ansel [1] décrit deux types de réponses possibles face à une offre. Le premier, la réponse numérique, consiste simplement à donner une réponse
-      chiffrée à l’offreur “je demande 100 euros de moins / de plus”. Le deuxième type, la réponse affective, ne donne pas d’indication précise sur le montant “je suis en désaccord avec cette proposition”.</p>
+    <p>Dans son article <i>Incertitude et intensité émotionnelle en situation de négociation</i>, Dominique Ansel [1] décrit deux types de réponses possibles face à une offre. Le premier, la réponse numérique, consiste simplement à donner une réponse
+      chiffrée à l’offreur “<i>je demande 100 euros de moins / de plus</i>”. Le deuxième type, la réponse affective, ne donne pas d’indication précise sur le montant “<i>je suis en désaccord avec cette proposition</i>”.</p>
     <p>L’avantage d’une réponse affective est qu’un individu qui l’utilise ne donne pas d’indications sur son point de résistance, c’est à dire le seuil en dessous duquel il n’accepterait pas une offre. Cela rend ses intentions floues pour l’offreur,
       ce qui permet de créer un contexte d’ambiguïté. Il va alors adopter un comportement moins rationnel. Les seules informations dont l’offreur a connaissance sont issues de ses propres interprétations des paroles et attitudes de l’autre partie.
       Cela élargit le champ de négociation, mais ne l’aide pas à y voir clair. </p>
@@ -73,8 +73,8 @@
     <p>De plus l’intentionnalité de l’autre joueur augmente ce processus de colère. Si dans le jeu de l’ultimatum, les offres sont réparties de façon aléatoire entre les deux joueurs, les offres basses sont plus acceptées, et la colère moins présente
       comme émotion. Cela montre que la réponse d’un répondant à une offre dépend de sa perception de l’intentionnalité de l’offreur. </p>
     <h3>La colère comme reflet de la sensibilité morale d’un individu</h3>
-    <p>La colère peut refléter la sensibilité morale d’un individu. En effet on a vu que l’injustice était une cause importante de l’émotion de colère. Le sentiment de colère vient de la moralité de l’individu.</p>
-    <p>Dans l’action de punir, on veut que l’autre se conforme à la norme sociale. La punition dans ce cas n’est pas stratégique mais une volonté d’obliger l’autre à se conformer à la norme morale ou sociale [16].</p>
+    <p>La colère peut refléter la sensibilité morale d’un individu. En effet on a vu que l’injustice était une cause importante de l’émotion de colère. Le sentiment de colère vient de la moralité de l’individu.
+    Dans l’action de punir, on veut que l’autre se conforme à une norme sociale. La punition dans ce cas n’est pas stratégique mais une volonté d’obliger l’autre à se conformer à la norme morale ou sociale [16].</p>
     <h2>Le jeu de l’ultimatum</h2>
     <p>Ce jeu permet de modéliser la dernière phase d'une négociation, avec une offre à prendre ou à laisser.
 Il permet d'observer les différents types de comportements, et l'impact des états affectifs sur ces comportements. (La négociation : les enseignements du jeu de l’ultimatum, PETIT)</p>
@@ -87,7 +87,7 @@ Il permet d'observer les différents types de comportements, et l'impact des ét
     <h3>Variantes du jeu de l'ultimatum</h3>
     <p>Le jeu de l’ultimatum possède plusieurs variantes. </p>
     <p>Dans le jeu du dictateur, le receveur ne peut pas refuser l'offre attribuée par l’offreur. Cette variante a notamment permis de montrer quelle est la part d’altruisme dans une offre. En effet on peut considérer que deux composantes expliquent la valeur d’une offre : d’une part l’empathie du premier joueur et d’autre part sa peur du refus de l’offre. Si on enlève la possibilité de refus, l’empathie et la volonté de donner une image favorable de soi entrent alors en compte.</p>
-    <p>Si on observe les résultats du jeu du dictateur, les offres sont environ 20% plus basses que dans le cas du jeu de l’ultimatum (La négociation : les enseignements du jeu de l’ultimatum, PETIT).</p>
+    <p>Si on observe les résultats du jeu du dictateur, les offres sont environ 20% plus basses que dans le cas du jeu de l’ultimatum [17].</p>
     <p>Une seconde variante est le jeu aléatoire. Dans ce jeu, la somme répartie entre les deux joueurs est aléatoirement choisie. Dans cette variante, les joueurs ayant le rôle de “répondant” acceptent plus facilement une offre basse. Cela montre que ce n’est pas tellement la valeur de l’offre qui entre en compte pour le second joueur, mais davantage “ l’intention ” que peut avoir l’offreur.</p>
 
 
