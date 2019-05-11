@@ -57,7 +57,7 @@
 		<p><img src="images/P4/partenaire.png" style="float:right; transform:scale(0.7)" alt="">
 			Ces 6 propositions sont faites par le même personnage, afin d'écarter toute possibilité que différents personnages évoquent différentes émotions.
 		</p>
-		<p style="clear:left;"> A chaque fin de tour, une liste d’émotions est proposée au participant. Il est invité à sélectionner les émotions qu'il a ressenti lorsqu'il a pris connaissance de l'offre. <br> Après ces 6 offres,  c'est au tour du participant de faire une unique offre finale. <br> Il est ensuite invité à répondre à la question suivante : “Pouvez vous expliquer cette offre de x€ ?”</p>
+		<p style="clear:left;"> À chaque fin de tour, une liste d’émotions est proposée au participant. Il est invité à sélectionner les émotions qu'il a ressenti lorsqu'il a pris connaissance de l'offre. <br> Après ces 6 offres,  c'est au tour du participant de faire une unique offre finale. <br> Il est ensuite invité à répondre à la question suivante : “Pouvez vous expliquer cette offre de x€ ?”</p>
 		<p>Les émotions proposées étaient les suivantes :</p>
 		<ul>
 			<li>colère</li>
@@ -70,9 +70,9 @@
 			<li>surprise</li>
 		</ul>
 		<h2>Hypothèses</h2>
-		<p>Nos deux hypothèses reposent sur le principe de rationnalité ( <a href="p1.php">Voir introduction</a> ).</p>
+		<p>Nos deux hypothèses reposent sur le principe de rationalité ( <a href="p1.php">Voir introduction</a> ).</p>
 		<h3>Hypothèse 1</h3>
-		<p>Notre première hypothèse était que le joueur présenterait un seuil de resistance, et que quand viendrait son tour de proposer une offre, celle ci sera égale à son seuil. <br>
+		<p>Notre première hypothèse était que le joueur présenterait un seuil de résistance, et que quand viendrait son tour de proposer une offre, celle ci sera égale à son seuil. <br>
 			Ce seuil correspond à la somme d'argent en dessous de laquelle le joueur refusera toute proposition, et au dessus de laquelle il les accepteras toutes.<br> Cette hypothèse correspond à un comportement rationnel de la part du joueur, qui veut éviter un refus de la part du répondant afin de maximiser ses gains. Le joueur n’ayant pas connaissance du comportement de son partenaire, le présuppose comme étant identique au sien. <br> Si, par exemple, le joueur refuse en tant que receveur une offre à partir de trois euros, il est probable qu'il en offrira quatre en tant qu'offreur. En effet, lorsque j'ai peu d'informations sur le comportement des autres, la manière la plus logique et raisonnable pour anticiper ce que vont faire les autres, c'est de supposer qu'ils feront comme je le ferais
 			si j'étais à leur place. C’est un comportement rationnel optimisateur.
 		</p><br/>
@@ -97,7 +97,7 @@
 		<img src="images/P4/offers_pie.png" class="chart" alt="">
 
 
-		<p>Cette première hypothèse suppose une forte rationalité des participants. Il n'est donc pas anormal de constater que cette supposition est érronnée, puisqu’on a vu que les émotions peuvent ébranler un comportement rationnel. <br> De plus, près de la moitié des joueurs testés ont fait une offre de 5€, en expliquant qu’ils voulaient être équitables dans le partage de l’argent.</p> <img class="chart" src="images/P4/thresholds_offers_bars.png" alt=""> <p>La prédominance de ce comportement (offres à 5€), que nous n’avions pas envisagée au départ, explique peut-être pourquoi peu de réponses lors du jeu vont dans le sens de notre hypothèse. <a href="#offres-5-euros">(Nous allons en re-parler)</a> </p>
+		<p>Cette première hypothèse suppose une forte rationalité des participants. Il n'est donc pas anormal de constater que cette supposition est érronée, puisqu’on a vu que les émotions peuvent ébranler un comportement rationnel. <br> De plus, près de la moitié des joueurs testés ont fait une offre de 5€, en expliquant qu’ils voulaient être équitables dans le partage de l’argent.</p> <img class="chart" src="images/P4/thresholds_offers_bars.png" alt=""> <p>La prédominance de ce comportement (offres à 5€), que nous n’avions pas envisagée au départ, explique peut-être pourquoi peu de réponses lors du jeu vont dans le sens de notre hypothèse. <a href="#offres-5-euros">(Nous allons en re-parler)</a> </p>
 		<h3>Hypothèse 2</h3>
 		<p>Notre seconde hypothèse stipulait qu'un refus de la part du receveur était corrélée uniquement avec des émotions négatives, et une acceptation, uniquement avec des émotions positives.
 		<br> Les résultats montrent que 22 participants, soit 33% de la population totale testée, adoptent effectivement ce comportement. Cette hypothèse est donc également réfutée car ce comportement est suivi par seulement un tiers des participants.</p>
@@ -114,7 +114,7 @@
 			égal. On peut faire le lien avec le résultat précédent. L’induction de la colère peut donner aux personnes une envie de justice qui les pousse à adopter ce comportement “juste”.
 			On peut supposer que ce comportement s’explique en partie par l’envie de donner une image positive de soi.
 		</p>
-		<p>On Également pourrait y voir une portée éducative de la colère ressentie, mais notre protocole ne nous permet pas de tester cette hypothèse.</p>
+		<p>On pourrait également y voir une portée éducative de la colère ressentie, mais notre protocole ne nous permet pas de tester cette hypothèse.</p>
 
 		<h2>Conclusion</h2>
 		<p>La non cohérence des résultats avec notre hypothèse peut aussi être expliqué par les limites du protocole. Par exemple, il est plus aisé pour les participants de faire des offres hautes puisque la monnaie est fictive. Du fait que les
@@ -122,9 +122,9 @@
 		<p>De plus, les animations du jeu ont pu induire des émotions aux joueurs testés. En effet plusieurs participants nous ont indiqué que voir le personnage virtuel avec qui ils jouent “pleurer” lorsqu’ils refusaient son offre, leur procurait de l’empathie pour ce personnage virtuel.</p> <img src="images/jeu/partenaire.png" alt="">
 
 		<p>
-	 	Toujours pour illustrer comment les élements graphiques du jeu et sa contextualisation ont eu de l'impact sur le comportement des joueur, beaucoup ont manifesté de l'animosité envers le personnage virtuel dans les commentaires de fin de partie. </p>
+	 	Toujours pour illustrer comment les éléments graphiques du jeu et sa contextualisation ont eu de l'impact sur le comportement des joueur, beaucoup ont manifesté de l'animosité envers le personnage virtuel dans les commentaires de fin de partie. </p>
 
-		<p>Au final, nos résultats suggèrent que les personnes ont plus tendance à proposer une offre correspondant à la moitié de la somme à partager. C'est ce comportement innatendu qui a primé sur ceux décrits par nos hypothèses.</p>
+		<p>Au final, nos résultats suggèrent que les personnes ont plus tendance à proposer une offre correspondant à la moitié de la somme à partager. C'est ce comportement inattendu qui a primé sur ceux décrits par nos hypothèses.</p>
 	</main>
 
 </div>
