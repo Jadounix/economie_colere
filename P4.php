@@ -117,7 +117,7 @@
 		<p>On pourrait également y voir une portée éducative de la colère ressentie, mais notre protocole ne nous permet pas de tester cette hypothèse.</p>
 
 		<h2>Conclusion</h2>
-		<p>La non cohérence des résultats avec notre hypothèse peut aussi être expliqué par les limites du protocole. Par exemple, il est plus aisé pour les participants de faire des offres hautes puisque la monnaie est fictive. Du fait que les
+		<p> En plus de la présence de <a href="P2.php#biais">certains biais inhérents au processus d'autoévaluation des émotions</a>, la non cohérence des résultats avec notre hypothèse peut aussi être expliqué par les limites du protocole. Par exemple, il est plus aisé pour les participants de faire des offres hautes puisque la monnaie est fictive. Du fait que les
 			participants jouent à un jeu et ne soient pas dans une réelle situation peut fausser les résultats. </p>
 		<p>De plus, les animations du jeu ont pu induire des émotions aux joueurs testés. En effet plusieurs participants nous ont indiqué que voir le personnage virtuel avec qui ils jouent “pleurer” lorsqu’ils refusaient son offre, leur procurait de l’empathie pour ce personnage virtuel.</p> <img src="images/jeu/partenaire.png" alt="">
 
