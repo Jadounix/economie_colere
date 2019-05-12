@@ -30,7 +30,7 @@
     <p>La colère peut avoir un impact négatif sur la santé. On sait qu’elle affecte par exemple l'hypertension artérielle. Elle est également un symptôme de nombreux troubles psychologiques ou psychiatriques, souvent liée à une peur anormale (par
       exemple dans le cas de la schizophrénie).
       <br>La colère peut empêcher certains processus cognitifs, comme l'exécution de tâches ou la prise de décision, en perturbant la concentration.
-      C’est une émotion avec une <a href="#valence">valence négative</a>. Elle est donc plutôt désagréable à ressentir pour les individus.</p>
+      C’est une émotion avec une <a href="valence">valence négative</a>. Elle est donc plutôt désagréable à ressentir pour les individus.</p>
     <p>Mais la colère a aussi des effets positifs. En essayant de se soustraire de cette émotion, un individu peut enrayer les causes de sa colère et ainsi augmenter son niveau de confort.
       La colère peut également être un générateur de motivation, et de confiance en soi lors d’une négociation par exemple.
       De plus, la colère participe au sentiment d’indignation morale : elle permet ainsi de poser des actions pour réduire les injustices [7].</p>
