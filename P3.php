@@ -13,7 +13,7 @@
 
     <h2>Principe de rationalité et influence des émotions</h2>
     <h3>Les différentes rationalités et les émotions</h3>
-    <p>En Économie, une des hypothèse principale qui vise à expliquer le comportement des individus en économie est celle des “préférences égoïstes”. Dans ce principe, l’individu se préoccupe uniquement de son propre niveau de bien être et de ses
+    <p>Une des hypothèse principale qui vise à expliquer le comportement des individus en économie est celle des “préférences égoïstes”. Dans ce principe, l’individu se préoccupe uniquement de son propre niveau de bien être et de ses
       propres intérêts. Il s'intéresse aux autres uniquement si cela doit l’affecter personnellement [18].</p>
     <p>On peut également noter l’existence du principe des “préférences morales”, où les émotions comme l’empathie, la culpabilité, et même la colère entre en jeu. L’individu fait ses choix en interrogeant sa morale et en essayant de se conformer à
       des valeurs. Ces valeurs peuvent venir de la société dans laquelle il vit, et de sa propre éducation. Cette hypothèse des préférences morales n’est pas forcément incompatible avec l’hypothèse de rationalité. On peut envisager qu’il est plus
@@ -27,7 +27,7 @@
       de décision ?</h3>
     <p>La raison, et donc le fait de prendre des décisions, est souvent opposée aux émotions.
     <br>
-    Dans son livre <i>L’erreur de Descartes</i> (1995) [4], Damasio raconte comment sa rencontre avec un homme très peu émotif, mais qui ne parvenait pas à prendre des choix et possédait un “handicap dans l’aptitude à prendre des décisions”, lui a permis
+    Dans son livre <i>L’erreur de Descartes</i> (1995) [4], Damasio raconte comment sa rencontre avec un homme très peu émotif, mais qui ne parvenait pas à prendre des choix et possédait un “handicap dans l’aptitude à prendre des décisions”, lui a permit
       de repenser la relation entre émotion et raison. <br>
     Il en a conclu que la capacité d'exprimer et de ressentir des émotions fait partie intégrante de la faculté de raisonnement. La raison et l'émotion sont utiles au cours du processus de décision pour deux raisons que nous allons maintenant
       détailler. </p>
