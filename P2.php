@@ -30,14 +30,14 @@
     <p>La colère peut avoir un impact négatif sur la santé. On sait qu’elle affecte par exemple l'hypertension artérielle. Elle est également un symptôme de nombreux troubles psychologiques ou psychiatriques, souvent liée à une peur anormale (par
       exemple dans le cas de la schizophrénie).
       <br>La colère peut empêcher certains processus cognitifs, comme l'exécution de tâches ou la prise de décision, en perturbant la concentration.
-      C’est une émotion avec une valence négative. Elle est donc plutôt désagréable à ressentir pour les individus.</p>
+      C’est une émotion avec une <a href="#valence">valence négative</a>. Elle est donc plutôt désagréable à ressentir pour les individus.</p>
     <p>Mais la colère a aussi des effets positifs. En essayant de se soustraire de cette émotion, un individu peut enrayer les causes de sa colère et ainsi augmenter son niveau de confort.
       La colère peut également être un générateur de motivation, et de confiance en soi lors d’une négociation par exemple.
       De plus, la colère participe au sentiment d’indignation morale : elle permet ainsi de poser des actions pour réduire les injustices [7].</p>
 
     <h3>Une approche multi componentielle des émotions</h3>
 
-    <h4>Les émotions se définissent par une valence et un niveau d’activation</h4>
+    <h4 id="#valence">Les émotions se définissent par une valence et un niveau d’activation</h4>
     <p>Une émotion peut être définie par une valence et un niveau d’activation. La valence est soit positive, soit négative, c’est par exemple le cas dans le couple joie/tristesse. C’est une mesure bipolaire qui permet de définir le niveau de plaisir
       ou de déplaisir de l’émotion en question [18]. Le niveau d’activation permet de rendre compte de l’intensité de l’émotion. Par exemple on aura un niveau d’activation fort dans le cas d’une émotion comme la colère [18], ou la
       tristesse. Des émotions comme le contentement ou l’ennui auront en revanche des niveau d'activation plutôt faible.</p>
@@ -52,8 +52,8 @@
     <p>Sur ces schémas, les zones de couleurs chaudes représentent les zones qui s’activent lors de l’émotion, et les couleurs froides représentent les régions dont l’activation diminue. La colère correspond à la première silhouette en haut à gauche.
       <br />On observe que les zones activées se situent plus au niveau de la tête et du thorax. Si on compare aux autres émotions, on peut considérer la colère comme un mélange entre la fierté et l’anxiété ou la peur. C’est assez intéressant puisque
       lorsqu’on est en colère, on ressent souvent ce mélange d’injustice face à la situation et de peur.
-      <br />Les zones activées lors de la colère sont aussi proches de celles du dégoût, de la surprise ou de la honte. On remarque que, hormis pour la surprise qui peut être positive ou négative, toutes ces émotions ayant des zones communes sont
-      plutôt des émotions négatives. Mais la tête et le thorax s’activent également lors d’émotions positives à fort niveau d’activation comme la joie ou l’amour. Si on regroupe ces informations on peut considérer que la colère est une émotion
+      <br />Les zones activées lors de la colère sont aussi proches de celles du dégoût, de la surprise ou de la honte. On remarque que, hormis pour la surprise qui peut avoir une valence positive ou négative, toutes ces émotions ayant des zones communes sont
+      plutôt des émotions à valence négatives. Mais la tête et le thorax s’activent également lors d’émotions positives à fort niveau d’activation comme la joie ou l’amour. Si on regroupe ces informations on peut considérer que la colère est une émotion
       négative à fort niveau d’activation.
     </p>
 
@@ -137,7 +137,7 @@
     <p>Il existe différentes méthodes permettant de mesurer l’intensité des émotions, ou de déterminer quelle émotion est exprimée par un individu.</p>
 
     <h3>Imagerie cérébrale</h3>
-    <p>L’imagerie cérébrale est un ensemble de techniques permettant d’observer le cerveau. L'imagerie par résonance magnétique fonctionnelle (IRMf) consiste par exemple à observer le taux d’oxygénation dans une zone cerveau afin de rendre compte de son activation. Plus la zone est oxygénée, plus elle est activée. On peut aussi utilisre la méthodes des potentiels évoqués (ERP) qui mesure l'activité électrique cérébrale. On enregistre ensuite cette activitée grâce à des techniques comme l'électroencéphalographie. </p>
+    <p>L’imagerie cérébrale est un ensemble de techniques permettant d’observer le cerveau. L'imagerie par résonance magnétique fonctionnelle (IRMf) consiste par exemple à observer le taux d’oxygénation dans une zone cerveau afin de rendre compte de son activation. Plus la zone est oxygénée, plus elle est activée. On peut aussi utiliser la méthode des potentiels évoqués (ERP) qui mesure l'activité électrique cérébrale. On enregistre ensuite cette activitée grâce à des techniques comme l'électroencéphalographie. </p>
     <p>L’imagerie cérébrale permet donc d’observer les zones qui s’activent lors qu’une émotion comme la colère est induite chez le sujet. </p>
 
     <h3>Autoévaluation des individus ou composante cognitive</h3>
@@ -151,7 +151,7 @@
 
     <h3>Mesures des expressions corporelles</h3>
     <p>L'être humain a une importante capacité à reconnaître des émotions sur le visage d’autres individus. C’est pourquoi la mesure des expressions corporelles et notamment faciales est utilisée en laboratoire pour discriminer des émotions. L’idée serait qu’il existe un “ patron musculaire spécifique et caractéristique” correspondant à chaque émotion [19].</p>
-    <p>Un exemple de mesure faciale des émotions est l’électromyographie. Elle consiste en la mesure de l’activité électrique des muscles du visage, afin de connaître leur activité musculaire. Cette activité est enregistrée grâce à des électrodes placées sur le visage du sujet [19].
+    <p>Un exemple de mesure faciale des émotions est l’électromyographie. Elle consiste en la mesure de l’activité électrique des muscles du visage, grâce à des électrodes placées sur le visage du sujet [19].
     <br/>Cette méthode comporte quelques limites car il est possible chez l’être humain de contrôler l’expression de ses émotions. De plus elle ne prend pas en compte d’autres paramètres, comme l'intensité de la voix, qui par exemple augmente en situation de colère.
     </p>
 
