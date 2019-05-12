@@ -30,14 +30,14 @@
     <p>La colère peut avoir un impact négatif sur la santé. On sait qu’elle affecte par exemple l'hypertension artérielle. Elle est également un symptôme de nombreux troubles psychologiques ou psychiatriques, souvent liée à une peur anormale (par
       exemple dans le cas de la schizophrénie).
       <br>La colère peut empêcher certains processus cognitifs, comme l'exécution de tâches ou la prise de décision, en perturbant la concentration.
-      C’est une émotion avec une <a href="valence">valence négative</a>. Elle est donc plutôt désagréable à ressentir pour les individus.</p>
+      C’est une émotion avec une <a href="#valence">valence négative</a>. Elle est donc plutôt désagréable à ressentir pour les individus.</p>
     <p>Mais la colère a aussi des effets positifs. En essayant de se soustraire de cette émotion, un individu peut enrayer les causes de sa colère et ainsi augmenter son niveau de confort.
       La colère peut également être un générateur de motivation, et de confiance en soi lors d’une négociation par exemple.
       De plus, la colère participe au sentiment d’indignation morale : elle permet ainsi de poser des actions pour réduire les injustices [7].</p>
 
     <h3>Une approche multi componentielle des émotions</h3>
 
-    <h4 id="#valence">Les émotions se définissent par une valence et un niveau d’activation</h4>
+    <h4 id="valence">Les émotions se définissent par une valence et un niveau d’activation</h4>
     <p>Une émotion peut être définie par une valence et un niveau d’activation. La valence est soit positive, soit négative, c’est par exemple le cas dans le couple joie/tristesse. C’est une mesure bipolaire qui permet de définir le niveau de plaisir
       ou de déplaisir de l’émotion en question [18]. Le niveau d’activation permet de rendre compte de l’intensité de l’émotion. Par exemple on aura un niveau d’activation fort dans le cas d’une émotion comme la colère [18], ou la
       tristesse. Des émotions comme le contentement ou l’ennui auront en revanche des niveau d'activation plutôt faible.</p>
