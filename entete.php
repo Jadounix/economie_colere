@@ -17,7 +17,7 @@
 			<a href="index.php" class="title">L'économie de la colère</a>
 		</div>
 		<div class="menu">
-			<p><a href="p1.php">I - Introduction</a></p>
+			<p><a href="P1.php">I - Introduction</a></p>
 			<p>·</p>
 			<p><a href="P2.php">II - La colère</a></p>
 			<p>·</p>
