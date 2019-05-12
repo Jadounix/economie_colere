@@ -12,7 +12,7 @@
       stimulus peut être externe, ou être déclenché par ses propres états mentaux.</p>
     <p>Ce qui semble caractériser les émotions, c'est leur nature transitoire. Elles sont généralement de courte durée, même si elles peuvent se muer en quelque chose de plus long, appelée une « humeur » si la cause de l'émotion dure dans le temps.
       Les émotions peuvent également marquer la mémoire, notamment si elles sont intenses. Elles peuvent se traduire par un comportement, par exemple un comportement agressif dans le cas de la colère.</p>
-    <p>Certaines émotions forment les émotions dites « de base ». Elle sont six d'après le neurologue Damasio (1994) : bonheur (ou joie), tristesse, peur, colère, dégoût et surprise. Mais Plutchnik en distingue, se regroupant en 4 paires contenant à
+    <p>Certaines émotions forment les émotions dites « de base ». Elle sont six d'après le neurologue Damasio (1994) : bonheur (ou joie), tristesse, peur, colère, dégoût et surprise. Mais Plutchnik en distingue huit, se regroupant en 4 paires contenant à
       chaque fois les deux émotions opposées : joie/tristesse, acceptation/dégoût, colère/peur, surprise/anticipation. Les autres émotions viendraient de mélange entre ces émotions de bases, et de leurs variations d'intensité.
       D'après Damasio les émotions joueraient un rôle important dans le raisonnement et la prise de décision.
     </p>
