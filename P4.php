@@ -129,9 +129,4 @@
 
 </div>
 
-
-
-
 <?php include 'pied.php'; ?>
-<script src="JS/jeu_ultimatum.js"></script>
-<script src="JS/traitement_donnees.js" charset="utf-8"></script>
