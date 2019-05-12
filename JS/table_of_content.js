@@ -1,9 +1,9 @@
-/*
- * jQuery to build the POC quickly
- *
- * SCRIPT IS UNDER CONSTRUCTION
- */
-var positions = [],
+$(window).bind("load", function() {
+   init();
+});
+
+function init(){
+  var positions = [],
   build_toc = function() {
     var output = "<p>Sommaire</p><ul>",
       svg =
@@ -103,3 +103,5 @@ $(window).on("resize", function() {
 $(document).on("scroll", function() {
   set_toc_reading();
 });
+
+}
