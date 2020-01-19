@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
 	<meta charset="utf-8">
+	<meta name="robots" content="noindex, nofollow">
 	<title>L'économie de la colère</title>
 	<link rel="stylesheet" media="screen" type="text/css" href="CSS/master.css">
 	<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
