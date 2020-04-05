@@ -9,3 +9,5 @@ The results refuted both of our hypotheses. Participants’ behaviour has been s
 
 
 *Mathematics and computer science, applied to social and human sciences.
+
+http://uf-mi.u-bordeaux.fr/ter-2019/petit-rosemplatt/
